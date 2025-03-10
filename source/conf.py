@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'GELATO example manual'
-copyright = '2023, yasuyuki shimizu and Jonathan Mark Nelson'
+copyright = '2023, yasuyuki shimizu, Jonathan Mark Nelson and Keita Hoshino'
 author = 'Yasuyuki Shimizu'
 release = '1.0.0'
 
