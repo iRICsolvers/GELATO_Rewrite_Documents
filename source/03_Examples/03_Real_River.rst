@@ -269,7 +269,7 @@ iRICの起動画面から、[新しいプロジェクト]を選ぶと表示さ�
 
 .. _03_024:
    
-.. figure:: images/01/GELATO_kido.png
+.. figure:: images/01/GELATO/kido.png
    :width: 800pt
 
    :ソルバーの選択     

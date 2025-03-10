@@ -271,212 +271,165 @@ Nays2DHによる流れの計算実行
 GELATOよるトレーサーの追跡
 ========================================================================================================================
 
-GELATOの起動
+GELATOの起動、格子のインポート
 ------------------------------------------------------------------------------------------------------------------------
 
-iRICの起動画面から、[新しいプロジェクト]を選ぶと表示されるソルバの選択画面で、
-「GELATO」を選んで、「OK」をクリックする。( :numref:`01_GELATO_kido` )
+iRICの起動画面から、[新しいプロジェクト]を選ぶと表示されるソルバの選択画面で、「GELATO ver2.x」を選んで、「OK」をクリックする。
 
-.. _01_GELATO_kido:
-
-.. figure:: images/01/GELATO_kido.png
+.. figure:: images/01/GELATO/kido.png
    :width: 800pt
 
    : GELATOの選択と起動
 
 
-「無題 -iRIC 4.x.x.xxxxx [GELATO]」と書かれたウインドウが現れ、GELATOセッションが開始される。(:numref:`01_GELATO_openning` )
+GELATOセッションが開始され、「入力用CGNSファイルの選択」というダイアログが現れる。
 
-.. _01_GELATO_openning:
-
-.. figure:: images/01/GELATO_openning.png
+.. figure:: images/01/GELATO/openning.png
    :width: 100%
 
    : GELATOの起動
   
-この状態の「プリプロセッサー」の「オブジェクトブラウザー」の「格子」の部分には[データなし]と表示されている( :numref:`01_GELATO_openning` ) ので、まずは前記(:numref:`01_koushi_4`)で作成したものをインポートする。
+:guilabel:`...` ボタンをクリックするとファイル選択ダイアログが表示されるので、先ほど計算したNays2DHの計算結果のCGNSファイルをボタンを押して選択する。
 
-.. _01_GELATO_import:
-
-.. figure:: ../images/02/import_grid.png
+.. figure:: images/01/GELATO/import_grid.png
    :width: 100%
 
-   : 格子データのインポート
+   : 計算結果CGNSの選択_1
 
+するとダイアログに選択したCGNSファイルの情報が表示されるので、:guilabel:`OK` をクリックする。
 
+.. figure:: images/01/GELATO/import_grid_2.png
+   :width: 40%
 
-「格子(データーなし)」を右クリックして「インポート」を選ぶ (:numref:`01_GELATO_import` ).
+   : 計算結果CGNSの選択_2
 
-.. _01_GELATO_koshi_1:
+格子をインポートするかどうかを尋ねるダイアログが表示されるので、:guilabel:`はい` をクリックする。
 
-.. figure:: images/01/GELATO_koshi_1.png
-   :width: 600pt
+.. figure:: images/01/GELATO/import_grid_3.png
+   :width: 30%
 
-   : 格子データファイルの選択
+   : 格子のインポート_1
 
-:numref:`01_GELATO_koshi_1` に示すように前述の「Nays2DHによる計算結果」をセーブしたプロジェクトフォルダーの中にある「Case1.cgn」を選択して、「開く」をクリックする。
+以下のようなエラーが表示されるが、これは異なるソルバーの格子を読み込もうとすると必ず表示されるのものなので、気にせず :guilabel:`はい` をクリックする。
 
-.. _01_GELATO_wng:
+.. figure:: images/01/GELATO/import_grid_4.png
+   :width: 40%
 
-.. figure:: images/01/GELATO_wng.png
-   :width: 400pt
+   : 格子のインポート_2
 
-   : 警告
+インポートが完了すると以下のようにインポートされた格子が表示される。
 
-:numref:`01_GELATO_wng` 「このCGNSファイルは・・・ナンチャラ・・・・インポートしますか？」
-と出るが、細かいことは気にせずに「はい(Y)」と答えると、
-:numref:`01_GELATO_grid` のように格子のインポートが完了する。
-
-.. _01_GELATO_grid:
-
-.. figure:: images/01/GELATO_grid.png
+.. figure:: images/01/GELATO/import_grid_5.png
    :width: 100%
 
-   : 格子のインポート完了
+   : 格子インポート完了
 
-2個のトレーサーの追跡(乱流拡散無し)
+2種のトレーサーの追跡(乱流拡散無し)
 ------------------------------------------------------------------------------------------------------------------------
 
 計算条件の設定
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-:numref:`01_joken_0` に示すように、メインメニューから「計算条件」「設定」を選ぶ。
+| メニューバーの :menuselection:`計算条件(C)->設定(S)` から、計算条件設定ウィンドウを開き、赤枠で囲った部分を以下のように設定する。
+| その他の計算条件はデフォルトのままでよい。
 
-.. _01_joken_0:
-
-.. figure:: images/01/joken_0.png
-   :width: 100%
-
-   : 計算条件の設定(0)
-
-
-以下に示すように計算条件を設定していく。
-
-「基本設定」の「流れの計算結果CGNSファイル」には前記の「Nays2DHの計算結果」が格納されているCGNSファイルを指定する。
-
-.. _01_GELATO_joken_1:
-
-.. figure:: images/01/GELATO_joken_1.png
+.. figure:: images/01/GELATO/setting_1_1.png
    :width: 600pt
 
-   : 基本設定
+   : 計算条件設定01
 
-.. _01_GELATO_joken_2:
-
-.. figure:: images/01/GELATO_joken_2.png
+.. figure:: images/01/GELATO/setting_1_2.png
    :width: 600pt
 
-   : プライマリートレーサーの供給条件
+   : 計算条件設定02
 
-.. _01_GELATO_joken_3:
-
-.. figure:: images/01/GELATO_joken_3.png
+.. figure:: images/01/GELATO/setting_1_3.png
    :width: 600pt
 
-   : セカンダリートレーサーの供給条件
+   : 計算条件設定03
 
-.. _01_GELATO_joken_4:
-
-.. figure:: images/01/GELATO_joken_4.png
+.. figure:: images/01/GELATO/setting_1_4.png
    :width: 600pt
 
-   : 通常トレーサーの時間設定
+   : 計算条件設定04
 
-.. _01_GELATO_joken_5:
-
-.. figure:: images/01/GELATO_joken_5.png
+.. figure:: images/01/GELATO/setting_1_5.png
    :width: 600pt
 
-   : 拡散に関する条件設定
+   : 計算条件設定05
 
-他の条件はデフォルトの値を使用する。
+.. figure:: images/01/GELATO/setting_1_6.png
+   :width: 600pt
 
+   : 計算条件設定06
 
 計算の実行
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-| メインメニューから、「計算」「実行」を選ぶと、 :numref:`01_keikoku` のようなダイアログが表示されるので、[OK]を選択しプロジェクトを適当な名前で保存する。
-| 保存が終了すると、計算が実行され、:numref:`01_GELATO_jikko_1` のようなウィンドウが表示される。
+| メニューバーの :menuselection:`計算(C)->実行(R)` を選択すると、警告が現れるので適当な名前で保存する。
+| このときの保存形式は[ファイルに保存(ipro)]か[プロジェクトとして保存]どちらでも良い。
+| 保存が完了すると計算が開始され、以下のようなウィンドウが表示される。
 
-.. _01_GELATO_jikko_1:
-
-.. figure:: images/01/GELATO_jikko_1.png
+.. figure:: images/01/GELATO/console.png
    :width: 100%
 
-   : 計算の実行
+   : 計算実行中画面
 
-計算が終了すると、:numref:`01_GELATO_jikko_2` のようなウィンドウが
-表示されるので「OK」を押す。
-
-.. _01_GELATO_jikko_2:
-
-.. figure:: images/01/GELATO_jikko_2.png
-   :width: 250pt
-
-   : 計算の実行  
+| 計算が終了すると「ソルバーの計算が終了しました.」とダイアログが表示されるので、:guilabel:`OK` をクリックする。
 
 計算結果の表示
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-メインメニューから、「アニメーション」「開始/停止」を選ぶ（ :numref:`01_GELATO_kekka_1` )
-とアニメーションが開始される。( :numref:`01_GELATO_00` )
-トレーサーはプライマリーとセカンダリーそれぞれのプロパティから色を設定することができる。
+| メインメニューの :menuselection:`計算結果(R)->新しい可視化ウィンドウ(2D)を開く` を選択すると、二次元可視化ウィンドウがが表示される。
+| オブジェクトブラウザーで :guilabel:`primary Nomal Tracers` と :guilabel:`secondary Nomal Tracers` の :guilabel:`スカラー` を右クリックし、 :guilabel:`プロパティ` を選択すると、以下のようなウィンドウが表示される。
+| ここからパーティクルの色を変更できるので、プライマリーを赤、セカンダリーを青に変更する。
 
-.. _01_GELATO_kekka_1:
+.. figure:: images/01/GELATO/particle_property.png
+   :width: 600pt
 
-.. figure:: images/01/GELATO_kekka_1.png
+   : パーティクルのプロパティ
+
+| タイムステップを最初に戻し、メインメニューの :menuselection:`アニメーション(A)->開始/停止(S)` を選択すると、アニメーションが再生される。
+
+.. figure:: images/01/GELATO/animation_start.png
    :width: 100%
 
-   : 計算結果の表示  
+   : アニメーションの再生
 
+当然乱流拡散なしの計算なので、結果は以下のような単純なものとなる。
 
-
-.. _01_GELATO_00:
-
-.. figure:: images/01/GELATO_00.gif
+.. figure:: images/01/GELATO/A_0_animation.gif
    :width: 70%
 
-   : トレーサーの動き(拡散無し)
+   : GELATOによるパーティクルアニメーション(拡散なし)
 
-
-当然、乱流拡散なしの場合は :numref:`01_GELATO_00` のような単純な結果となる。
-
-2個のトレーサーの追跡(乱流拡散有り)
+2種のトレーサーの追跡(乱流拡散あり)
 ------------------------------------------------------------------------------------------------------------------------
 
 計算条件の設定
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+| このまま計算条件を変更し、乱流拡散を考慮した計算を行う。
+| まず、メニューバーの :menuselection:`計算条件(C)->設定(S)` を選択し、以下のように設定する。
 
-計算条件を変更し、乱流拡散の影響を考慮する。メインメニューから「計算条件」→「設定」を選択し、
-:numref:`01_GELATO_joken_6` の「計算条件」の設定ウィンドウを表示し、
-「拡散に関する条件設定」の「ランダムウォークによるセル以下スケールの乱れの考慮」を「する」に設定し、
-パラメーターの「Aの値」を[1]に設定し、「OK」を押す。
-
-.. _01_GELATO_joken_6:
-
-.. figure:: images/01/GELATO_joken_6.png
+.. figure:: images/01/GELATO/setting_2_1.png
    :width: 600pt
 
    : 拡散に関する条件設定
 
 計算の実行と結果の表示
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+| この設定で計算を実行すると、以下のような結果が得られる。
 
-前記と同様に計算を実行して結果をアニメーション表示すると、:numref:`01_GELATO_01` のような
-結果となる。
-
-.. _01_GELATO_01:
-
-.. figure:: images/01/GELATO_01.gif
+.. figure:: images/01/GELATO/A_1_animation.gif
    :width: 70%
 
-   : トレーサーの動き(拡散あり A=1)
+   : GELATOによるパーティクルアニメーション(拡散あり A=1)
 
-さらに Aの値を10とすると、:numref:`01_GELATO_10` となり、明らかに乱れの影響が大きくなる。
+| さらに、Aの値を10にすると以下のようになり、明らかに乱れの影響が大きくなる。
 
-.. _01_GELATO_10:
-
-.. figure:: images/01/GELATO_10.gif
+.. figure:: images/01/GELATO/A_10_animation.gif
    :width: 70%
 
-   : トレーサーの動き(拡散あり A=10)
+   : GELATOによるパーティクルアニメーション(拡散あり A=10)
+
+

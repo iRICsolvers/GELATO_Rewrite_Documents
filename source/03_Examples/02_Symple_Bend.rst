@@ -64,7 +64,7 @@ Windowが現れる。
 
 .. _02_koshi1:
 
-.. figure:: images/02/koshi1.png 
+.. figure:: images/02/Nays2DH/koshi1.png 
    :width: 600pt
 
    : 格子生成アルゴリズムの選択
@@ -79,28 +79,28 @@ Windowが現れる。
 
 .. _02_koshi2:
 
-.. figure:: images/02/koshi2.png
+.. figure:: images/02/Nays2DH/koshi2.png
    :width: 400pt
 
    : 格子生成(1)
 
 .. _02_koshi3:
 
-.. figure:: images/02/koshi3.png
+.. figure:: images/02/Nays2DH/koshi3.png
    :width: 400pt
 
    : 格子生成(2)  
 
 .. _02_koshi4:
 
-.. figure:: images/02/koshi4.png 
+.. figure:: images/02/Nays2DH/koshi4.png 
    :width: 400pt
 
    : 格子生成(3)
 
 .. _02_koshi5:
 
-.. figure:: images/02/koshi5.png
+.. figure:: images/02/Nays2DH/koshi5.png
    :width: 400pt
 
    : 格子生成(4)
@@ -110,7 +110,7 @@ Windowが現れる。
 
 .. _02_mapping:
 
-.. figure:: images/02/mapping.png
+.. figure:: images/02/Nays2DH/mapping.png
    :width: 300pt
 
    : 確認
@@ -121,7 +121,7 @@ Windowが現れる。
 
 .. _02_koshi6:
 
-.. figure:: images/02/koshi6.png
+.. figure:: images/02/Nays2DH/koshi6.png
    :width: 100%
 
    : 固定床と移動床
@@ -133,7 +133,7 @@ Windowが現れる。
 
 .. _02_koshi7:
 
-.. figure:: images/02/koshi7.png
+.. figure:: images/02/Nays2DH/koshi7.png
    :width: 100%
 
    : 固定床と移動床の属性変更
@@ -143,7 +143,7 @@ Windowが現れる。
 
 .. _02_koshi8:
 
-.. figure:: images/02/koshi8.png
+.. figure:: images/02/Nays2DH/koshi8.png
    :width: 100%
 
    : 最下流端の格子を固定床に変更
@@ -163,28 +163,28 @@ Windowが現れる。
 
 .. _02_joken1:
 
-.. figure:: images/02/joken1.png
+.. figure:: images/02/Nays2DH/joken1.png
    :width: 600pt
 
    : 計算条件(ソルバー・タイプ)
 
 .. _02_joken2:
 
-.. figure:: images/02/joken2.png
+.. figure:: images/02/Nays2DH/joken2.png
    :width: 600pt
 
    : 計算条件(境界条件)
 
 .. _02_joken3:
 
-.. figure:: images/02/joken3.png
+.. figure:: images/02/Nays2DH/joken3.png
    :width: 600pt
 
    : 計算条件(時間)
 
 .. _02_joken4:
 
-.. figure:: images/02/joken4.png
+.. figure:: images/02/Nays2DH/joken4.png
    :width: 600pt
 
    : 計算条件(河床材料)
@@ -196,7 +196,7 @@ Windowが現れる。
 
 .. _02_joken5:
 
-.. figure:: images/02/joken5.png
+.. figure:: images/02/Nays2DH/joken5.png
    :width: 600pt
 
    : 計算条件(流量の時間配分の設定)
@@ -212,7 +212,7 @@ Windowが現れる。
 
 .. _02_save_project:
 
-.. figure:: images/02/save_project.png
+.. figure:: images/02/Nays2DH/save_project.png
    :width: 600pt
 
    : 計算プロジェクトの保存
@@ -228,7 +228,7 @@ Windowが現れる。
 
 .. _02_jikko2:
 
-.. figure:: images/02/jikko2.png
+.. figure:: images/02/Nays2DH/jikko2.png
    :width: 100%
 
    : 「計算実行中」
@@ -244,7 +244,7 @@ Windowが現れる。
 
 .. _02_hyoji1:
 
-.. figure:: images/02/hyoji1.png
+.. figure:: images/02/Nays2DH/hyoji1.png
    :width: 600pt
 
    : 「スカラー設定」
@@ -255,7 +255,7 @@ Windowが現れる。
 
 .. _02_hyoji2:
 
-.. figure:: images/02/hyoji2.png
+.. figure:: images/02/Nays2DH/hyoji2.png
    :width: 600pt
 
    : 「ベクトル設定」
@@ -265,7 +265,7 @@ Windowが現れる。
 
 .. _02_hyoji3:
 
-.. figure:: images/02/hyoji3.png
+.. figure:: images/02/Nays2DH/hyoji3.png
    :width: 100%
 
    : 「アニメーションの実行」
@@ -274,7 +274,7 @@ Windowが現れる。
 
 .. _02_hyoji4:
 
-.. figure:: images/02/hyoji4.gif
+.. figure:: images/02/Nays2DH/hyoji4.gif
    :width: 70%
 
    : 「河床変動と流速ベクトルのアニメーション」
@@ -289,7 +289,7 @@ Windowが現れる。
 
 .. _02_export:
 
-.. figure:: images/02/export.png
+.. figure:: images/02/Nays2DH/export.png
    :width: 100%
 
    : 「計算結果のエクスポート(1)」
@@ -299,7 +299,7 @@ Windowが現れる。
 
 .. _02_export2:
 
-.. figure:: images/02/export2.png
+.. figure:: images/02/Nays2DH/export2.png
    :width: 250pt
 
    : 「計算結果のエクスポート(2)」
@@ -310,7 +310,7 @@ Windowが現れる。
 
 .. _02_export3:
 
-.. figure:: images/02/export3.png
+.. figure:: images/02/Nays2DH/export3.png
    :width: 250pt
 
    : 「計算結果のエクスポート(3)」
@@ -321,7 +321,7 @@ Windowが現れる。
 
 .. _02_export4:
 
-.. figure:: images/02/export4.png
+.. figure:: images/02/Nays2DH/export4.png
    :width: 600pt
 
    : 「計算結果のエクスポート(3)」
@@ -338,7 +338,7 @@ iRICの起動画面から、[新しいプロジェクト]を選ぶと表示さ�
 
 .. _02_select2:
 
-.. figure:: images/02/select2.png
+.. figure:: images/02/Nays2D+/select2.png
    :width: 600pt
 
    : 「ソルバーNays2d+の選択」
@@ -357,14 +357,14 @@ iRICの起動画面から、[新しいプロジェクト]を選ぶと表示さ�
 
 .. _02_koshi10:
 
-.. figure:: images/02/koshi10.png
+.. figure:: images/02/Nays2D+/koshi10.png
    :width: 400pt
 
    : 「警告」
 
 .. _02_koshi11:
 
-.. figure:: images/02/koshi11.png
+.. figure:: images/02/Nays2D+/koshi11.png
    :width: 100%
 
    : 「格子のインポート完了」
@@ -376,7 +376,7 @@ iRICの起動画面から、[新しいプロジェクト]を選ぶと表示さ�
 
 .. _02_import2:
 
-.. figure:: images/02/import2.png
+.. figure:: images/02/Nays2D+/import2.png
    :width: 100%
 
    : 「河床高のインポート」
@@ -386,7 +386,7 @@ iRICの起動画面から、[新しいプロジェクト]を選ぶと表示さ�
 
 .. _02_import3:
 
-.. figure:: images/02/import3.png
+.. figure:: images/02/Nays2D+/import3.png
    :width: 600pt
 
    : 「河床高のインポート(ファイルの選択)」
@@ -396,7 +396,7 @@ iRICの起動画面から、[新しいプロジェクト]を選ぶと表示さ�
 
 .. _02_import4:
 
-.. figure:: images/02/import4.png
+.. figure:: images/02/Nays2D+/import4.png
    :width: 400pt
 
    : 「河床高のインポート(間引き設定)」
@@ -405,7 +405,7 @@ iRICの起動画面から、[新しいプロジェクト]を選ぶと表示さ�
 
 .. _02_import5:
 
-.. figure:: images/02/import5.png
+.. figure:: images/02/Nays2D+/import5.png
    :width: 100%
 
    : 「河床高のインポート完了」
@@ -419,7 +419,7 @@ iRICの起動画面から、[新しいプロジェクト]を選ぶと表示さ�
 
 .. _02_mapping2:
 
-.. figure:: images/02/mapping2.png
+.. figure:: images/02/Nays2D+/mapping2.png
    :width: 100%
 
    : 「マッピング」
@@ -429,7 +429,7 @@ iRICの起動画面から、[新しいプロジェクト]を選ぶと表示さ�
 
 .. _02_mapping3:
 
-.. figure:: images/02/mapping3.png
+.. figure:: images/02/Nays2D+/mapping3.png
    :width: 200pt
 
    : 「マッピングする情報の選択」
@@ -439,7 +439,7 @@ iRICの起動画面から、[新しいプロジェクト]を選ぶと表示さ�
 
 .. _02_mapping4:
 
-.. figure:: images/02/mapping4.png
+.. figure:: images/02/Nays2D+/mapping4.png
    :width: 200pt
 
    : 「マッピングの完了」
@@ -462,35 +462,35 @@ Nays2d＋の計算条件の設定
 
 .. _02_joken6:
 
-.. figure:: images/02/joken6.png
+.. figure:: images/02/Nays2D+/joken6.png
    :width: 600pt
 
    : 計算条件(流量および下流端水位の設定)
 
 .. _02_joken7:
 
-.. figure:: images/02/joken7.png
+.. figure:: images/02/Nays2D+/joken7.png
    :width: 600pt
 
    : 計算条件(時間および浸食に関するパラメーター)
 
 .. _02_joken8:
 
-.. figure:: images/02/joken8.png
+.. figure:: images/02/Nays2D+/joken8.png
    :width: 600pt
 
    : 計算条件(境界条件)
 
 .. _02_joken9:
 
-.. figure:: images/02/joken9.png
+.. figure:: images/02/Nays2D+/joken9.png
    :width: 600pt
 
    : 計算条件(他の計算条件)
 
 .. _02_joken10:
 
-.. figure:: images/02/joken10.png
+.. figure:: images/02/Nays2D+/joken10.png
    :width: 600pt
 
    : 計算条件(3次元流速分布)
@@ -502,7 +502,7 @@ Nays2d＋の計算条件の設定
 
 .. _02_joken11:
 
-.. figure:: images/02/joken11.png
+.. figure:: images/02/Nays2D+/joken11.png
    :width: 600pt
 
    : 計算条件(流量の時間配分の設定)
@@ -519,7 +519,7 @@ Nays2d+の計算の実行
 
 .. _02_save_project2:
 
-.. figure:: images/02/save_project2.png
+.. figure:: images/02/Nays2D+/save_project2.png
    :width: 600pt
 
    : プロジェクトの保存(Nays2d+Flow)
@@ -534,422 +534,315 @@ GELATOによる仮想トレーサーの追跡計算
 ソルバの選択
 ------------------------------------------------------------------------------------------------------------------------
 
-iRICの起動画面から、[新しいプロジェクト]を選ぶと表示されるソルバの選択画面
-( :numref:`02_select_GELATO` )で[GELATO]
-を選択して[OK]を押す。
+iRICの起動画面から、[新しいプロジェクト]を選ぶと表示されるソルバの選択画面で、「GELATO ver2.x」を選んで、「OK」をクリックする。
 
-.. _02_select_GELATO:
+.. figure:: images/01/GELATO/kido.png
+   :width: 800pt
 
-.. figure:: images/01/GELATO_kido.png
+   : GELATOの選択と起動
+
+
+GELATOセッションが開始され、「入力用CGNSファイルの選択」というダイアログが現れる。
+
+.. figure:: images/01/GELATO/openning.png
    :width: 100%
 
-   : 「ソルバーGELATOの選択」
+   : GELATOの起動
+  
+:guilabel:`...` ボタンをクリックするとファイル選択ダイアログが表示されるので、先ほど計算した[Nays2d+Flow]の計算結果のCGNSファイルをボタンを押して選択する。
 
-格子のインポート
-------------------------------------------------------------------------------------------------------------------------
+.. figure:: images/02/GELATO/import_grid_1.png
+   :width: 80%
 
-:numref:`02_import_grid1` のようにオブジェクトブラウザーの[格子(データなし)]を右クリック
-して、[インポート]をクリックする。
+   : 計算結果CGNSの選択_1
 
-.. _02_import_grid1:
+するとダイアログに選択したCGNSファイルの情報が表示されるので、:guilabel:`OK` をクリックする。
 
-.. figure:: ../images/02/import_grid.png
+.. figure:: images/02/GELATO/import_grid_2.png   
+   :width: 30%
+
+   : 計算結果CGNSの選択_2
+
+格子をインポートするかどうかを尋ねるダイアログが表示されるので、:guilabel:`はい` をクリックする。
+
+.. figure:: images/01/GELATO/import_grid_3.png
+   :width: 30%
+
+   : 格子のインポート_1
+
+以下のようなエラーが表示されるが、これは異なるソルバーの格子を読み込もうとすると必ず表示されるのものなので、気にせず :guilabel:`はい` をクリックする。
+
+.. figure:: images/02/GELATO/import_grid_3.png
+   :width: 40%
+
+   : 格子のインポート_2
+
+インポートが完了すると以下のようにインポートされた格子が表示される。
+
+.. figure:: images/02/GELATO/import_grid_4.png
    :width: 100%
 
-   : 「格子のインポート(1)」
-
-ファイル選択ウィンドウが現れるので、先ほど[Nays2d+]の計算結果を保存したフォルダ
-[Nays2d+Flow]の中の[Case1.cgn]を選ぶ( :numref:`02_import_grid2`)
-
-.. _02_import_grid2:
-
-.. figure:: images/02/import_grid2.png
-   :width: 600pt
-
-   : 「格子のインポート(2)」
-
-お馴染みの :numref:`02_import6` の警告が表示されるが、構わず[はい]を押して進むと
-格子のインポートが完了する。( :numref:`02_import7`)
-
-.. _02_import6:
-
-.. figure:: images/02/import6.png
-   :width: 400pt
-
-   : 「お馴染みの警告」
-
-.. _02_import7:
-
-.. figure:: images/02/import7.png
-   :width: 100%
-
-   : 「格子のインポート完了」
+   : 格子インポート完了
 
 GELATOによるトレーサー追跡計算
 ------------------------------------------------------------------------------------------------------------------------
 
 計算条件の設定
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+| メニューバーの :menuselection:`計算条件(C)->設定(S)` から、計算条件設定ウィンドウを開き、赤枠で囲った部分を以下のように設定する。
+| その他の計算条件はデフォルトのままでよい。
 
-| [計算条件]->[設定]で表示される[計算条件]ウィンドウで、
-| [基本設定]、[プライマリートレーサーの供給条件]、[通常トレーサーの時間設定]、[拡散に関する条件設定]をそれぞれ、:numref:`02_joken20` 、:numref:`02_joken21` 、:numref:`02_joken22`、 :numref:`02_joken23` のようにパラメータを設定する。
-| ここではまず、乱れの影響を考慮しない場合のトレーサー追跡を行う。
+.. figure:: images/02/GELATO/setting_1_1.png
+   :width: 60%
 
-.. _02_joken20:
+   : 計算条件の設定01
 
-.. figure:: images/02/joken20.png
-   :width: 600pt
+.. figure:: images/02/GELATO/setting_1_2.png
+   :width: 60%
 
-   : 「GELATOの計算条件(1)」
+   : 計算条件の設定02
 
-.. _02_joken21:
+.. figure:: images/02/GELATO/setting_1_3.png
+   :width: 60%
 
-.. figure:: images/02/joken21.png
-   :width: 600pt
+   : 計算条件の設定03
 
-   : 「GELATOの計算条件(2)」
+.. figure:: images/02/GELATO/setting_1_4.png
+   :width: 60%
 
-.. _02_joken22:
+   : 計算条件の設定04
 
-.. figure:: images/02/joken22.png
-   :width: 600pt
+.. figure:: images/02/GELATO/setting_1_5.png
+   :width: 60%
 
-   : 「GELATOの計算条件(3)」
+   : 計算条件の設定05
 
-.. _02_joken23:
-
-.. figure:: images/02/joken23.png
-   :width: 600pt
-
-   : 「GELATOの計算条件(4)」
-
-なお、:numref:`02_joken20` 中の[流れの計算結果を読み込むCGNSファイル]は前節[Nays2d+による流れの計算]
-の結果を保存した[Nays2d+Flow]プロジェクトフォルダにある[Case1.cgn]を選択する。
-
+.. note::
+   計算条件の設定2において、:guilabel:`X軸方向流速(m/s)` と :guilabel:`Y軸方向流速(m/s)` を :guilabel:`SurfaceVelocityX` , :guilabel:`SurfaceVelocityY` のように変更すると、表面流速や底面流速を用いたトレーサーの追跡が可能となる。
 
 計算の実行
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-メインメニューから[計算]->[実行]を選択すると、「プロジェクトの保存がお勧めされる」ので、
-ここは大人しく言うことを聞いて、新たにプロジェクトを保存しておく
-( :numref:`02_save_project3`).
+| メニューバーの :menuselection:`計算(C)->実行(R)` を選択すると、警告が現れるので適当な名前で保存する。
+| このときの保存形式は[ファイルに保存(ipro)]か[プロジェクトとして保存]どちらでも良い。
+| 保存が完了すると計算が開始され、以下のようなウィンドウが表示される。
 
-.. _02_save_project3:
-
-.. figure:: images/01/keikoku.png
-   :width: 400pt
-
-   : 「GELATOプロジェクトの保存(1)」
-
-[ファイルに保存(ipro)]か[プロジェクトとして保存]どちらでも良い。
-
-.. _02_save_project4:
-
-.. figure:: images/02/save_project4.png
-   :width: 250pt
-
-   : 「GELATOプロジェクトの保存(3)」
-
-
-計算が始まるとお馴染みの :numref:`02_jikko20` この画面が登場し。終了すると、これまたお馴染みの
-:numref:`02_jikko21` が表示されるので、[OK]を押す。
-
-.. _02_jikko20:
-
-.. figure:: images/02/jikko20.png
+.. figure:: images/02/GELATO/console.png
    :width: 100%
 
-   : 「計算の実行(1)」
+   : 計算実行中画面
 
-.. _02_jikko21:
+| 計算が終了すると「ソルバーの計算が終了しました.」とダイアログが表示されるので、:guilabel:`OK` をクリックする。
 
-.. figure:: images/02/jikko21.png
-   :width: 250pt
-
-   : 「計算の実行(2)」
 
 計算結果の表示
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-メインメニューから[計算結果]->[新しい可視化ウィンドウ(2D)を開く]を選択すると、計算結果が表示される。
-(:numref:`02_kekka20` )
+| メインメニューの :menuselection:`計算結果(R)->新しい可視化ウィンドウ(2D)を開く` を選択すると、二次元可視化ウィンドウがが表示される。
 
-.. _02_kekka20:
-
-.. figure:: images/02/kekka20.png
+.. figure:: images/02/GELATO/visualization.png
    :width: 100%
 
-   : 「可視化ウィンドウ(2D)」
+   : 可視化ウィンドウ
 
+| 本章冒頭に示した実験の画像 :numref:`02_jikken` と向きが反対なので、以下の画像に矢印で示す90°回転のマークを2回クリックして180°回転させる。
 
-本章冒頭に示した実験の画像 :numref:`02_jikken` と向きが反対なので、:numref:`02_kekka20` に
-矢印で示す(小さく分かりにくいが)90°回転のマークを2回クリックして180°回転させる
-( :numref:`02_kekka21`).
-
-.. _02_kekka21:
-
-.. figure:: images/02/kekka21.png
+.. figure:: images/02/GELATO/rotate.png
    :width: 100%
 
-   : 「可視化ウィンドウ(180°回転)」
+   : 画像の回転
 
-時刻表示が小さくてメチャ見にくいので、オブジェクトブラウザーの[時刻]->[プロパティ]で
-[時刻設定]を表示させて( :numref:`02_jikoku`) フォントサイズを適当に大きくする。
+| 時刻表示が小さくてメチャ見にくいので、オブジェクトブラウザーの[時刻]を右クリックし、[プロパティ]から [時刻設定]を表示させて、フォントサイズを適当に大きくする。
 
-.. _02_jikoku:
-
-.. figure:: images/02/jikoku.png
+.. figure:: images/02/GELATO/time_size_setting.png
    :width: 100%
 
-   : 「時刻表示設定」
+   : 時刻表示の設定
 
-:numref:`02_anime1` に示すように[時刻バーを戻し]、メインメニューから
-[アニメーション]->[実行]でトレーサーの流動アニメーションが開始される
-( :numref:`02_GELATO00`)
+| タイムステップを最初に戻し、メインメニューの :menuselection:`アニメーション(A)->開始/停止(S)` を選択すると、アニメーションが再生される。
 
-.. _02_anime1:
-
-.. figure:: images/02/anime1.png
+.. figure:: images/02/GELATO/animation_start.png
    :width: 100%
 
-   : 「アニメーションの開始」
+   : アニメーションの再生
 
-.. _02_GELATO00:
+| トレーサーは殆ど拡散せずに、線状に流れて行くのが分かる。
 
-.. figure:: images/02/GELATO00.gif
+.. figure:: images/02/GELATO/A_0_animation.gif
    :width: 70%
 
-   : [トレーサーのアニメーション(乱流拡散強度A=0)]
-
-トレーサーは殆ど拡散せずに、線状に流れて行くのが分かる。
+   : トレーサーのアニメーション(乱流拡散強度A=0)
 
 乱流拡散強度の違いの比較
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+| このまま計算条件を変更し、乱流拡散を考慮した計算を行う。
+| 計算プロジェクトはそれぞれ別名保存をしておくと便利である。
+| まず、メニューバーの :menuselection:`計算条件(C)->設定(S)` を選択し、以下のように設定する。
 
-:numref:`02_A01` [計算条件]->[設定]の、[拡散に関する条件設定]グループで、
-[ランダムウォークによるセル以下スケールの乱れ考慮]を[する]にして、[Aの値]を[1]にして
-再度[計算を実行]、[計算結果のアニメーション表示を]すると、
-:numref:`02_GELATO01` のようになる。
+.. figure:: images/02/GELATO/setting_2_1.png
+   :width: 60%
 
-.. _02_A01:
+   : 計算条件の設定01
 
-.. figure:: images/02/A01.png
-   :width: 600pt
+| この設定で計算を実行すると、以下のような結果が得られる。
 
-   : 「ランダムウォークパラメータ(A=1)の設定」
-
-.. _02_GELATO01:
-
-.. figure:: images/02/GELATO01.gif
+.. figure:: images/02/GELATO/A_1_animation.gif
    :width: 70%
 
-   : [トレーサーのアニメーション(乱流拡散強度A=1)]
+   : トレーサーのアニメーション(乱流拡散強度A=1)
 
-同様に、[A=5]、[A=10]、[A=50]でランダムウォークをやってみると。。。
+| 同様に、[A=5]、[A=10]、[A=50]でランダムウォークをやってみると。。。
 
-.. _02_GELATO05:
-
-.. figure:: images/02/GELATO05.gif
+.. figure:: images/02/GELATO/A_5_animation.gif
    :width: 70%
 
-   : [トレーサーのアニメーション(乱流拡散強度A=5)]
+   : トレーサーのアニメーション(乱流拡散強度A=5)
 
-.. _02_GELATO10:
-
-.. figure:: images/02/GELATO10.gif
+.. figure:: images/02/GELATO/A_10_animation.gif
    :width: 70%
 
-   : [トレーサーのアニメーション(乱流拡散強度A=10)]
+   : トレーサーのアニメーション(乱流拡散強度A=10)
 
-.. _02_GELATO50:
-
-.. figure:: images/02/GELATO50.gif
+.. figure:: images/02/GELATO/A_50_animation.gif
    :width: 70%
 
-   : [トレーサーのアニメーション(乱流拡散強度A=50)]
+   : トレーサーのアニメーション(乱流拡散強度A=50)
 
-:numref:`02_jikken` の実験と比較すると、[A=10]位の感じであることが分かる。
+:numref:`02_jikken` と比較すると、[A=10]位の感じであることが分かる。
 
 トレーサーのクローン
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-[計算条件]->[設定]の、[プライマリートレーサーの分割・結合]を :numref:`02_clone01` のように設定し、[拡散に関する条件設定]は[A=10]とする。
-
-.. _02_clone01:
-
-.. figure:: images/02/clone01.png
-   :width: 600pt
-
-   : [トレーサークローンの設定]
+| メニューバーの :menuselection:`計算条件(C)->設定(S)` を選択し、以下のように設定する。
+| その他の計算条件は[A=10]の計算のときと同じなので、プロジェクトをコピーして、以下の部分だけを変更するとよい。
 
 
-再度計算を実行し、結果を表示すると :numref:`02_clone10` のような結果となる。
+.. figure:: images/02/GELATO/setting_3_1.png
+   :width: 60%
 
+   : 計算条件の設定01
 
-.. _02_clone10:
+| 再度計算を実行すると以下のような結果となる。
 
-.. figure:: images/02/clone10.gif
+.. figure:: images/02/GELATO/A_10_clone_animation.gif
    :width: 70%
 
-   : [トレーサークローン表示(最大20世代、A=10)]
+   : トレーサークローン表示(最大20世代、A=10)
 
 | トレーサーの拡散範囲は :numref:`02_jikken` の実験動画の緑色染料の拡散範囲に近くなっている。
-| ここで、オブジェクトブラウザーで、[Primary Normal Tracers]->[スカラー]->[Generation(Primary)]にチェックを入れると、世代が表示される。
-| これをアニメーション表示すると、 :numref:`02_clone10_gen` のようになる。
+| ここで、オブジェクトブラウザーで、 :guilabel:`Primary Normal Tracers` -> :guilabel:`スカラー` -> :guilabel:`Generation(Primary)` にチェックを入れると、世代が表示される。
+| これをアニメーション表示すると、以下のようになる。
 
-.. _02_clone10_gen:
-
-.. figure:: images/02/clone10_gen.gif
+.. figure:: images/02/GELATO/A_10_clone_generation_animation.gif
    :width: 70%
 
-   : [トレーサークローン表示(最大20世代、A=10、世代色別表示)]
+   : トレーサークローン表示(最大20世代、A=10、世代表示)
 
-**基本事項(共通事項)** で述べたように、実質の重みは10世代目で :math:`W=0.00195`、20世代目だと
-:math:`W=0.00000195` なので、 :numref:`02_clone10_gen` おける、緑・黄・赤等のトレーサー
-濃度は中心部の青色系のトレーサーに比べ対数的に低いことになる。
-格子内のトレーサー数に重みを乗じて、実質の濃度を見るには、
+| 「 :ref:`cloning00` 」で述べたように、実質の重みは10世代目で :math:`W=0.00195`、20世代目だと :math:`W=0.00000195` なので、緑・黄・赤等のトレーサー濃度は中心部の青色系のトレーサーに比べ対数的に低いことになる。
+| 次に、格子内のトレーサー数に重みを乗じて、実質の濃度を可視化する。
 
-1．オブジェクトブラウザーで[スカラー]のチェックマークを外す( :numref:`02_concent1`).
 
-.. _02_concent1:
+1. オブジェクトブラウザーで、 :guilabel:`Primary Normal Tracers` -> :guilabel:`スカラー` のチェックを外し、 :guilabel:`スカラー(セル中心)` -> :guilabel:`重み付き粒子数(プライマリー)` にチェックを入れる。
 
-.. figure:: images/02/concent1.png
-   :width: 350pt
+   .. figure:: images/02/GELATO/scalar_setting_3_1.png
+      :width: 100%
 
-   : [スカラー]のチェックマークを外す
+      : スカラー設定1
 
-2．オブジェクトブラウザーで[スカラー(セル中心)]の[重み付き粒子数(プライマリー)]にチェックマークを入れる(:numref:`02_concent2`).
+2. :guilabel:`重み付き粒子数(プライマリー)` を右クリックし、 :guilabel:`プロパティ` を選択する。
 
-.. _02_concent2:
+   .. figure:: images/02/GELATO/scalar_setting_3_2.png
+      :width: 40%
 
-.. figure:: images/02/concent2.png
-   :width: 350pt
+      : スカラー設定2
 
-   : [重み付き粒子数(プライマリー)]にチェックマークを入れる
+1. [スカラー設定]ウィンドウで、以下のように設定して :guilabel:`OK` を押す。
 
-3．[重み付き粒子数(プライマリー)]を右クリックして[プロパティ]を押す。
+   .. figure:: images/02/GELATO/scalar_setting_3_3.png
+      :width: 60%
 
-.. _02_concent3:
+      : スカラー設定3
 
-.. figure:: images/02/concent3.png
-   :width: 350pt
+アニメーションを再生すると、以下のようになる。
 
-   : [重み付き粒子数(プライマリー)]->[プロパティ]
-
-4．[スカラー設定]ウィンドウで、以下のように設定して[設定]を押す。
-
-.. _02_concent4:
-
-.. figure:: images/02/concent4.png
-   :width: 600pt
-
-   : スカラー設定
-
-:numref:`02_concent7` の[可視化ウィンドウ:2D]が表示されるので、
-タイムバーをゼロに戻してメインメニューから[アニメーション]->[開始/停止]を
-押すと、 :numref:`02_concent8` のアニメーションが開始される。
-
-.. _02_concent7:
-
-.. figure:: images/02/concent7.png
-   :width: 100%
-
-   : アニメーションの実行
-
-.. _02_concent8:
-
-.. figure:: images/02/concent8.gif
+.. figure:: images/02/GELATO/A_10_clone_weighted_animation.gif
    :width: 70%
 
-   : 重みを考慮したトレーサー濃度のアニメーション
-
-:numref:`02_jikken` の実験動画の緑色染料の拡散状況に類似した拡散状況が再現された。
+   : トレーサークローン表示(最大20世代、A=10、重み付き表示)
 
 トレーサークローンを利用した流れの可視化
 ------------------------------------------------------------------------------------------------------------------------
+| トレーサーのクローンツールを用いた流れの可視化の例を示す。
+| メニューバーの :menuselection:`計算条件(C)->設定(S)` を選択し、以下のように設定する。
+| その他の計算条件は[A=10]の計算のときと同じなので、プロジェクトをコピーして、以下の部分だけを変更するとよい。
 
-トレーサーのクローンツールを用いた流れの可視化の例を示す。
+.. figure:: images/02/GELATO/setting_4_1.png
+   :width: 60%
 
+   : 計算条件の設定01
 
-[重み付き粒子数(プライマリー)]のチェックマークを外し、メインメニューの[計算条件]->[設定]を開く。
-:numref:`02_settei1` および :numref:`02_settei2` のように条件を設定して保存する。
-ここで、:numref:`02_settei2` の[空白セルはすべて発生させる] によって、可視化用の多数のトレーサーを発生さる。
+.. figure:: images/02/GELATO/setting_4_2.png
+   :width: 60%
 
-.. _02_settei1:
+   : 計算条件の設定02
 
-.. figure:: images/02/settei1.png
-   :width: 600pt
+| 設定終了後 :guilabel:`Primary Normal Tracers` -> :guilabel:`スカラー` にチェックを入れ、 :guilabel:`スカラー(セル中心)` -> :guilabel:`重み付き粒子数(プライマリー)` のチェックを外し、アニメーションを再生すると以下のようになる。
 
-   : 計算条件の設定(1)
+.. figure:: images/02/GELATO/A_10_clone_visualization_animation.gif
+   :width: 60%
 
-.. _02_settei2:
-
-.. figure:: images/02/settei2.png
-   :width: 600pt
-
-   : 計算条件の設定(2)
-
-設定終了後、計算を実行し、 オブジェクトブラウザーの[粒子]と[スカラー]のチェックマークを入れて、[Generation(Primary)]のチェックマークを外した後に
-[アニメーション]->[開始/停止]で :numref:`02_kashika` のようにアニメーションが表示され、水路全体にトレーサーが
-満遍なく配置された可視化となる。
-
-.. _02_kashika:
-
-.. figure:: images/02/kashika.gif
-   :width: 70%
-
-   : トレーサーを用いた可視化
+   : トレーサーを用いた流れの可視化
 
 魚の遊泳シミュレーション
 ------------------------------------------------------------------------------------------------------------------------
+| メニューバーの :menuselection:`計算条件(C)->設定(S)` を選択し、以下のように設定する。
 
-[計算条件]->[設定]で以下の設定を行う。
+.. figure:: images/02/GELATO/setting_5_1.png
+   :width: 60%
 
-.. _02_fish1:
+   : 計算条件の設定1
 
-.. figure:: images/02/fish1.png
-   :width: 600pt
+.. figure:: images/02/GELATO/setting_5_2.png
+   :width: 60%
 
-   : 魚の条件設定(1)
+   : 計算条件の設定2
 
-.. _02_fish2:
+.. figure:: images/02/GELATO/setting_5_3.png
+   :width: 60%
 
-.. figure:: images/02/fish2.png
-   :width: 600pt
+   : 計算条件の設定3
 
-   : 魚の条件設定(2)
+| 魚の運動特性リストは :guilabel:`編集` をクリックすると編集用ダイアログが表示される。
+| :guilabel:`追加` をクリックしてグループを追加してそれぞれにパラメーターを入力してもよいが、手間なので今回はパラメータを保存されているcsvファイルを読み込んで入力を行う。csvデータ(fish_data.csv)は `こちら <https://i-ric.org/download/gelato-v2-0-fish_data/>`_ からダウンロードしてください。
+|
+| :guilabel:`インポート` をクリックするとファイル選択ダイアログが表示されるので、 :file:`fish_data.csv` を選択する。
 
-.. _02_fish3:
+.. figure:: images/02/GELATO/setting_5_4.png
+   :width: 60%
 
-.. figure:: images/02/fish3.png
-   :width: 600pt
+   : 計算条件の設定4
 
-   : 魚の条件設定(3)
+.. note::
+   このcsvファイルは、iRIC上で入力したものをエクスポートして作成するほか、魚の設定ファイル(\*.csv)を簡便に作成できるMicrosoft Excel用のマクロを使用しても作成できる。
+   このマクロは `ここ <https://i-ric.org/download/gelato_fishfilemaker/>`_ からダウンロード可能である。
 
-.. _02_fish4:
+| 読み込みが完了すると以下のように魚の運動特性が表示される。
 
-.. figure:: images/02/fish4.png
-   :width: 600pt
+.. figure:: images/02/GELATO/setting_5_5.png
+   :width: 60%
 
-   : 魚の条件設定(4)
+   : 計算条件の設定5(リスト表示)
 
-.. _02_fish5:
+.. figure:: images/02/GELATO/setting_5_6.png
+   :width: 100%
 
-.. figure:: images/02/fish5.png
-   :width: 600pt
+   : 計算条件の設定5(表形式)
 
-   : 魚の条件設定(5)
+計算条件を保存して、計算を実行すると以下のような結果が得られる。
 
-この条件で、[計算]->[実行]を行った後に、オブジェクトブラウザーで[ポリゴン]->[Fish]->[Type]にチェックマークを入れて
-[アニメーション]->[開始/停止]を選択すると、:numref:`02_fish6` が再生される。
+.. figure:: images/02/GELATO/fish_animation.gif
+   :width: 60%
 
-.. _02_fish6: 
-
-.. figure:: images/02/fish.gif
-   :width: 70%
-
-   : 魚の遊泳アニメーション
-
+   : 魚の遊泳シミュレーション
 
 
 NaysDw2による流木の追跡計算
@@ -964,7 +857,7 @@ iRICの起動画面から、[新しいプロジェクト]を選ぶと表示さ�
 
 .. _02_select_Dw2:
 
-.. figure:: images/02/select_Dw2.png
+.. figure:: images/02/NaysDw2/select_Dw2.png
    :width: 600pt
 
    : 「ソルバーNaysDw2の選択」
@@ -977,7 +870,7 @@ iRICの起動画面から、[新しいプロジェクト]を選ぶと表示さ�
 
 .. _02_import_grid3:
 
-.. figure:: images/02/import_grid3.png
+.. figure:: images/02/NaysDw2/import_grid3.png
    :width: 400pt
 
    : 「格子のインポート(3)」
@@ -986,7 +879,7 @@ iRICの起動画面から、[新しいプロジェクト]を選ぶと表示さ�
 
 .. _02_import_grid4:
 
-.. figure:: images/02/import_grid4.png
+.. figure:: images/02/NaysDw2/import_grid4.png
    :width: 600pt
 
    : 「格子のインポート(4)」
@@ -995,7 +888,7 @@ iRICの起動画面から、[新しいプロジェクト]を選ぶと表示さ�
 
 .. _02_import_grid5:
 
-.. figure:: images/02/import_grid5.png
+.. figure:: images/02/NaysDw2/import_grid5.png
    :width: 400pt
 
    : 「格子のインポート(5)」
@@ -1004,14 +897,14 @@ iRICの起動画面から、[新しいプロジェクト]を選ぶと表示さ�
 
 .. _02_import8:
 
-.. figure:: images/02/import8.png
+.. figure:: images/02/NaysDw2/import8.png
    :width: 400pt
 
    : 「警告」
 
 .. _02_import9:
 
-.. figure:: images/02/import9.png
+.. figure:: images/02/NaysDw2/import9.png
    :width: 100%
 
    : 「格子のインポート完了」
@@ -1025,28 +918,28 @@ iRICの起動画面から、[新しいプロジェクト]を選ぶと表示さ�
 
 .. _02_dw3:
 
-.. figure:: images/02/dw3.png
+.. figure:: images/02/NaysDw2/dw3.png
    :width: 600pt
 
    : [基本設定]
 
 .. _02_dw4:
 
-.. figure:: images/02/dw4.png
+.. figure:: images/02/NaysDw2/dw4.png
    :width: 600pt
 
    : [流木の供給条件]
 
 .. _02_dw5:
 
-.. figure:: images/02/dw5.png
+.. figure:: images/02/NaysDw2/dw5.png
    :width: 600pt
 
    : [流れおよび流木に関するパラメーター]
 
 .. _02_dw8:
 
-.. figure:: images/02/dw8.png
+.. figure:: images/02/NaysDw2/dw8.png
    :width: 600pt
 
    : [DEM(個別要素法)パラメーター]
@@ -1060,7 +953,7 @@ iRICの起動画面から、[新しいプロジェクト]を選ぶと表示さ�
 
 .. _02_dw6:
 
-.. figure:: images/02/dw6.png
+.. figure:: images/02/NaysDw2/dw6.png
    :width: 100%
 
    : [計算]->[実行]
@@ -1069,14 +962,14 @@ iRICの起動画面から、[新しいプロジェクト]を選ぶと表示さ�
 
 .. _02_dw10:
 
-.. figure:: images/02/dw10.png
+.. figure:: images/02/NaysDw2/dw10.png
    :width: 100%
 
    : [計算の実行]
 
 .. _02_dw11:
 
-.. figure:: images/02/dw11.png
+.. figure:: images/02/NaysDw2/dw11.png
    :width: 200pt
 
    : [計算の終了]
@@ -1089,7 +982,7 @@ iRICの起動画面から、[新しいプロジェクト]を選ぶと表示さ�
 
 .. _02_dw12:
 
-.. figure:: images/02/dw12.png
+.. figure:: images/02/NaysDw2/dw12.png
    :width: 100%
 
    : [可視化ウィンドウの表示]
@@ -1099,7 +992,7 @@ iRICの起動画面から、[新しいプロジェクト]を選ぶと表示さ�
 
 .. _02_dw13:
 
-.. figure:: images/02/dw13.png
+.. figure:: images/02/NaysDw2/dw13.png
    :width: 100%
 
    : [スカラーの表示]
@@ -1109,7 +1002,7 @@ iRICの起動画面から、[新しいプロジェクト]を選ぶと表示さ�
 
 .. _02_dw14:
 
-.. figure:: images/02/dw14.png
+.. figure:: images/02/NaysDw2/dw14.png
    :width: 600pt
 
    : [スカラー設定]
@@ -1119,7 +1012,7 @@ iRICの起動画面から、[新しいプロジェクト]を選ぶと表示さ�
 
 .. _02_dw15:
 
-.. figure:: images/02/dw15.png
+.. figure:: images/02/NaysDw2/dw15.png
    :width: 100%
 
    : [アニメーションの開始]
@@ -1129,7 +1022,7 @@ iRICの起動画面から、[新しいプロジェクト]を選ぶと表示さ�
 
 .. _02_dw16:
 
-.. figure:: images/02/dw.gif
+.. figure:: images/02/NaysDw2/dw.gif
    :width: 70%
 
    : [流木追跡のアニメーション]
