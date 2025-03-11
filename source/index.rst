@@ -15,9 +15,9 @@ GELATOマニュアル・事例集のページへようこそ!
    :maxdepth: 4
 
    01_Introduction
-   05_Update
    02_Overview
    03_Examples
+   05_Update
    04_Reference
 
 
