@@ -127,59 +127,39 @@ please visit the iRIC website (https://i-ric.org/) for more details.
 
 .. figure:: images/02/flow.png
    :align: center
-   :width: 400pt
+   :width: 600pt
 
    : Calculation Procedure by GELATO
 
-The CGNS file that contains the calculation results of 
-the flow used in GELATO is Specify from [Calculation conditions], [Settings], 
-and [CGNS file to load flow calculation results] of the bar.
+The CGNS file that contains the calculation results of the flow used in GELATO is specified from the dialog displayed when the solver is started.
 (:numref:`read_cgnsfile`)
 
 .. _read_cgnsfile:
 
 .. figure:: images/02/cgns_file.png
-   :align: center
-   :width: 450pt
+   :width: 400pt
 
    : Specify the CGNS file which contains the calculation result of the flow
 
 Computational grids used in GELATO 
 ----------------------------------
 
-In most cases, the computational grid is imported from the CGNS files which contains the computational flow results.
-As shown in  :numref:`import_grid` , from the "Object Browser" in the "Pre-Preprocessing Window", Right-click [Grid(No data)], select [Import], and select a CGNS file which contains the grid information as :numref:`import_grid_1` .
-In most cases in iRIC, the file name is [Case1.cgn].
+| In most cases in GELATO, the computational grid is imported and used from the aforementioned CGNS file containing the calculation results.
+| When you specify the CGNS file of the flow calculation results in the previous dialog, the dialog shown in :numref:`import_grid` will be displayed. If you select "Yes", the computational grid will be automatically loaded.
 
 .. _import_grid:
 
 .. figure:: images/02/import_grid.png
-   :align: center
-   :width: 100%
+   :width: 300pt
 
-   : Importing computational grid.
+   : Importing the computational grid used in GELATO from the CGNS file of the flow calculation results.
 
-
-.. _import_grid_1:
-
-.. figure:: images/02/import_grid_1.png
-   :align: center
-   :width: 600pt
-
-   : Select a CGNS file 
-
-When you try to read the grid data from CGNS file produced by other than GELATO,
-:numref:`import_grid_2` is displayed.
-This means that the current project(GELATO project) is different from the flow calculation project.
-This is a warning that you are trying to import grids from a wrong project, 
-but you can just click "OK", and the grid information is imported and the result is displayed 
-as :numref:`import_grid_3` .    
-
+| When you try to read the grid data included in the CGNS file of the flow calculation project from GELATO, a warning like the one shown in :numref:`import_grid_2` will appear.
+| This is a warning that you are trying to import the grid file of another project (the flow calculation project) even though the currently running project is GELATO. However, you can proceed by pressing "OK", and the grid will be imported from the target flow calculation results and displayed as shown in :numref:`import_grid_3`.
 
 .. _import_grid_2:
 
 .. figure:: images/02/import_grid_2.png
-   :align: center
    :width: 400pt
 
    : Warning message
@@ -187,10 +167,9 @@ as :numref:`import_grid_3` .
 .. _import_grid_3:
 
 .. figure:: images/02/import_grid_3.png
-   :align: center
    :width: 100%
 
-   : Grid import completed
+   : Completion of grid import
 
 After this, the following procedure is used to calculate the tracer and display the result by GELATO. 
 Examples are given in the next section.
