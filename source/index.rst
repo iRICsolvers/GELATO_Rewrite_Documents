@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-GELATOマニュアル・事例集のページへようこそ!
+GELATO v2.xマニュアル・事例集のページへようこそ!
 ==================================================
 .. figure:: images/ishikari_kako.gif
    :width: 600pt
