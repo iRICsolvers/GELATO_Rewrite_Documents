@@ -111,7 +111,7 @@ Setting Parameters for Fish Simulation
    : Example of fish parameters in CSV format
 
 | In conjunction with this change, a macro for Microsoft Excel has been created to easily create fish setting files (.csv). By using this macro, it is possible to set parameters randomly based on a standard body length as before, as well as set body lengths at equal intervals within a specified range.
-| This macro can be downloaded from `here <https://i-ric.org/download/gelato_fishfilemaker/>`_.
+| This macro can be downloaded from `here <https://i-ric.org/en/download/gelato_fishfilemaker/>`_.
 
 .. figure:: images/05/fish_parameter_macro.png
    :width: 100%

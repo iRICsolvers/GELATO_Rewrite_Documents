@@ -25,6 +25,8 @@ location of the tracers using values between 0 to 1.
 
    :Non-dimensional description of tracers' position
 
+.. _Random walk model considering the effect of turbulence:
+
 Random walk model considering the effect of turbulence
 ----------------------------------------------------------
 
@@ -179,4 +181,13 @@ Examples are given in the next section.
 - Calculation execution
 
 - Visualization of the solution
- 
+
+Computational Conditions
+------------------------------------------------------------
+
+| Here, we describe the computational conditions required for GELATO calculations.
+
+.. toctree::
+   :maxdepth: 2
+
+   02_Overview/01_Parameter
