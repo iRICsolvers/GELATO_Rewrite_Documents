@@ -6,10 +6,12 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'GELATO example manual'
-copyright = '2023, yasuyuki shimizu and Jonathan Mark Nelson'
+project = 'GELATO v2.x example manual'
+copyright = '2023, yasuyuki shimizu, Jonathan Mark Nelson, Keita Hoshino'
 author = 'yasuyuki shimizu'
 release = '1.0.0'
+html_logo = "images/iRIC_logo.png"
+html_favicon = "images/iRIC_icon.ico"
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
