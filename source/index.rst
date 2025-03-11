@@ -15,6 +15,7 @@ Welcome to the GELATO v2.x Manuals and Examples Page!
    01_Introduction
    02_Overview
    03_Examples
+   05_Update
    04_Reference
 
 
