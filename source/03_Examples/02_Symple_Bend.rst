@@ -262,7 +262,7 @@ From the main menu, when you select [Simulation]->[Run], you will get the messag
  
 When the computation finished, save the results by selecting [Calculation Result]->[Save], from the main menu.
 
-Display the Calculation Results
+Display the Calculation Result
 ------------------------------------------------------------------------------------------------------------------------
 
 Open a [Post Processing Window] by selecting [Calculation Result]->[Open new 2D Post-Processing Window] as
@@ -353,7 +353,7 @@ choose [Format] as [Topography Files(\*.tpo)].
 
 The output folder can be any name, and uncheck the checkbox at [All time steps],
 and set [Start] and [End] as 10,800.
-Then click [OK] to complete the export of the calculation Results
+Then click [OK] to complete the export of the calculation Result
 :numref:`02_export3`. 
 
 .. _02_export3:
@@ -364,7 +364,7 @@ Then click [OK] to complete the export of the calculation Results
 
    : Exporting Computational Results(3)
 
-The exported calculation results are stored in the specified folder.
+The exported calculation result are stored in the specified folder.
 As shown in :numref:`02_export4`, many files contain different values as water depth, 
 velocity, sediment transport rate, riverbed elevations, and so on, however, since only 
 the riverbed elevation is used for the flow calculations in the next section, 
@@ -663,10 +663,10 @@ When the import is complete, the imported grid is displayed as shown below.
 Tracer Tracking Calculation by GELATO
 ------------------------------------------------------------------------------------------------------------------------
 
-Setting Calculation Conditions
+Setting Calculation Condition
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-| Open the calculation condition setting window from the menu bar :menuselection:`Calculation Condition(C) --> Setting(S)` and set the parts enclosed in red as follows.
-| Other calculation conditions can be left as default.
+| Open the calculation condition setting window from the menu bar :menuselection:`Calculation Condition --> Setting` and set the parts enclosed in red as follows.
+| Other Calculation Condition can be left as default.
 
 .. figure:: images/02/GELATO/setting_1_1.png
    :width: 60%
@@ -694,12 +694,12 @@ Setting Calculation Conditions
    : Setting Calculation Conditions_5
 
 .. note::
-   In Setting Calculation Conditions_2, if you change :guilabel:`X-axis velocity (m/s)` and :guilabel:`Y-axis velocity (m/s)` to :guilabel:`SurfaceVelocityX` and :guilabel:`SurfaceVelocityY`, it is possible to track tracers using surface velocity or bottom velocity.
+   In Setting Calculation Condition_2, if you change :guilabel:`X-axis velocity (m/s)` and :guilabel:`Y-axis velocity (m/s)` to :guilabel:`SurfaceVelocityX` and :guilabel:`SurfaceVelocityY`, it is possible to track tracers using surface velocity or bottom velocity.
 
 Executing Calculation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-| Select :menuselection:`Calculation(C) --> Execute(R)` from the menu bar, a warning will appear, so save it with an appropriate name.
+| Select :menuselection:`Simulation --> Run` from the menu bar, a warning will appear, so save it with an appropriate name.
 | The save format at this time can be either [Save to file (ipro)] or [Save as project].
 | When the save is complete, the calculation starts, and a window like the one below is displayed.
 
@@ -710,10 +710,10 @@ Executing Calculation
 
 | When the calculation is finished, a dialog saying "Solver calculation is finished." will be displayed, so click :guilabel:`OK`.
 
-Displaying Calculation Results
+Displaying Calculation Result
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-| Select :menuselection:`Calculation Result(R) --> Open new visualization window (2D)` from the main menu, and a two-dimensional visualization window will be displayed.
+| Select :menuselection:`Calculation Result --> Open new 2D Post-Processing Window` from the main menu, and a two-dimensional visualization window will be displayed.
 
 .. figure:: images/02/GELATO/visualization.png
    :width: 100%
@@ -734,7 +734,7 @@ Displaying Calculation Results
 
    : Time Display Settings
 
-| Return the time step to the beginning, and select :menuselection:`Animation(A) --> Start/Stop(S)` from the main menu to play the animation.
+| Return the time step to the beginning, and select :menuselection:`Animation --> Start/Stop Animation` from the main menu to play the animation.
 
 .. figure:: images/02/GELATO/animation_start.png
    :width: 100%
@@ -750,9 +750,9 @@ Displaying Calculation Results
 
 Comparison of Different Turbulent Diffusion Intensities
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-| Change the calculation conditions as they are and perform calculations considering turbulent diffusion.
+| Change the Calculation Condition as they are and perform calculations considering turbulent diffusion.
 | It is convenient to save each calculation project with a different name.
-| First, select :menuselection:`Calculation Condition(C) --> Setting(S)` from the menu bar and set it as follows.
+| First, select :menuselection:`Calculation Condition --> Setting` from the menu bar and set it as follows.
 
 .. figure:: images/02/GELATO/setting_2_1.png
    :width: 60%
@@ -787,8 +787,8 @@ Comparing with :numref:`02_jikken`, it can be seen that the feeling is around [A
 
 Tracer Cloning
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-| Select :menuselection:`Calculation Condition(C) --> Setting(S)` from the menu bar and set it as follows.
-| Since other calculation conditions are the same as when calculating [A=10], it is good to copy the project and change only the following parts.
+| Select :menuselection:`Calculation Condition --> Setting` from the menu bar and set it as follows.
+| Since other Calculation Condition are the same as when calculating [A=10], it is good to copy the project and change only the following parts.
 
 .. figure:: images/02/GELATO/setting_3_1.png
    :width: 60%
@@ -845,8 +845,8 @@ When you play the animation, it looks like the following.
 Visualization of Flow Using Tracer Clones
 ------------------------------------------------------------------------------------------------------------------------
 | An example of flow visualization using the tracer clone tool is shown.
-| Select :menuselection:`Calculation Condition(C) --> Setting(S)` from the menu bar and set it as follows.
-| Since other calculation conditions are the same as when calculating [A=10], it is good to copy the project and change only the following parts.
+| Select :menuselection:`Calculation Condition --> Setting` from the menu bar and set it as follows.
+| Since other Calculation Condition are the same as when calculating [A=10], it is good to copy the project and change only the following parts.
 
 .. figure:: images/02/GELATO/setting_4_1.png
    :width: 60%
@@ -867,7 +867,7 @@ Visualization of Flow Using Tracer Clones
 
 Fish Swimming Simulation
 ------------------------------------------------------------------------------------------------------------------------
-| Select :menuselection:`Calculation Condition(C) --> Setting(S)` from the menu bar and set it as follows.
+| Select :menuselection:`Calculation Condition --> Setting` from the menu bar and set it as follows.
 
 .. figure:: images/02/GELATO/setting_5_1.png
    :width: 60%
@@ -885,7 +885,7 @@ Fish Swimming Simulation
    : Setting Calculation Conditions_3
 
 | When you click :guilabel:`Edit` in the fish movement characteristics list, an edit dialog is displayed.
-| You can add groups by clicking :guilabel:`Add` and enter parameters for each, but it is cumbersome, so this time we will read and input the parameters from a csv file where the parameters are saved. The csv data ( :file:`fish_data.csv` ) can be downloaded from here : `fish_data.csv <https://i-ric.org/download/gelato-v2-0-fish_data/>`_.
+| You can add groups by clicking :guilabel:`Add` and enter parameters for each, but it is cumbersome, so this time we will read and input the parameters from a csv file where the parameters are saved. The csv data ( :file:`fish_data.csv` ) can be downloaded from here : `fish_data.csv <https://i-ric.org/en/download/gelato-v2-0-fish_data/>`_.
 |
 | When you click :guilabel:`Import`, a file selection dialog is displayed, so select :file:`fish_data.csv`.
 
@@ -896,7 +896,7 @@ Fish Swimming Simulation
 
 .. note::
    This csv file can be created by exporting what was entered on iRIC, or it can be created using a macro for Microsoft Excel that can easily create fish setting files (\*.csv).
-   This macro can be downloaded `here <https://i-ric.org/download/gelato_fishfilemaker/>`_.
+   This macro can be downloaded `here <https://i-ric.org/en/download/gelato_fishfilemaker/>`_.
 
 | When the reading is complete, the fish movement characteristics are displayed as follows.
 
@@ -910,7 +910,7 @@ Fish Swimming Simulation
 
    : Setting Calculation Conditions_5 (Table Format)
 
-When you save the calculation conditions and execute the calculation, the following result is obtained.
+When you save the Calculation Condition and execute the calculation, the following result is obtained.
 
 .. figure:: images/02/GELATO/fish_animation.gif
    :width: 60%

@@ -363,7 +363,7 @@ When the import is complete, the imported grid is displayed as shown below.
 Checking Terrain Data
 ------------------------------------------------------------------------------------------------------------------------
 | Set the coordinate system and display the background map.
-| From the menu bar, select :menuselection:`File(F) --> Property(P)` to open the project property screen.
+| From the menu bar, select :menuselection:`File --> Property` to open the project property screen.
 
 .. figure:: images/03/GELATO/coordinate_setting_01.png
    :width: 100%
@@ -396,10 +396,10 @@ From the object browser, select the background image (Internet) of the Geospatia
 Tracer Tracking Simulation by GELATO
 ------------------------------------------------------------------------------------------------------------------------
 
-Setting Calculation Conditions
+Setting Calculation Condition
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-| From the menu bar, select :menuselection:`Calculation Conditions(C) --> Settings(S)` to open the calculation condition setting window, and set the parts surrounded by red frames as follows.
-| Other calculation conditions can be left as default.
+| From the menu bar, select :menuselection:`Calculation Condition --> Settings` to open the calculation condition setting window, and set the parts surrounded by red frames as follows.
+| Other Calculation Condition can be left as default.
 
 .. figure:: images/03/GELATO/setting_01.png
    :width: 600pt
@@ -418,13 +418,13 @@ Setting Calculation Conditions
 
 Executing the Calculation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-| From the menu bar, select :menuselection:`Calculation(C) --> Run(R)`, a warning appears, save with an appropriate name.
+| From the menu bar, select :menuselection:`Simulation --> Run`, a warning appears, save with an appropriate name.
 | The save format can be either [Save to file (ipro)] or [Save as project].
 | When the calculation is complete, a dialog saying "Solver calculation is complete." appears, click `OK`.
 
-Displaying Calculation Results
+Displaying Calculation Result
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-| From the main menu, select :menuselection:`Calculation Results(R) --> Open New Visualization Window (2D)` to display the 2D visualization window.
+| From the main menu, select :menuselection:`Calculation Result --> Open new 2D Post-Processing Window` to display the 2D visualization window.
 | From the object browser, right-click [Trajectory] under [Polygon], and select [Properties].
 
 .. figure:: images/03/GELATO/visualization_02.png
@@ -447,7 +447,7 @@ Displaying Calculation Results
 
    : Scalar Settings
 
-| After completing the visualization settings, return the time step to the beginning, and select :menuselection:`Animation(A) --> Start/Stop(S)` from the main menu to play the animation.
+| After completing the visualization settings, return the time step to the beginning, and select :menuselection:`Animation --> Start/Stop Animation` from the main menu to play the animation.
 | This result shows the calculation result of the trajectory of the tracer dropped from the float drop machine.
 
 .. figure:: images/03/GELATO/tranjectory_animation.gif

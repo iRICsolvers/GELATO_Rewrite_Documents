@@ -92,11 +92,11 @@ then the computational grid is generated as
 
    :Grid Generation Compete
 
-Setting of calculation conditions for flow by Nays2DH
+Setting of Calculation Condition for flow by Nays2DH
 -------------------------------------------------------
 
-The next step is to set the calculation conditions. 
-From the menu bar, select [Calculation Conditions]->[Settings], then 
+The next step is to set the Calculation Condition. 
+From the menu bar, select [Calculation Condition]->[Settings], then 
 the [Calculation condition setting window] as  :numref:`01_joken_1` appears.
 
 .. _01_joken_1:
@@ -356,11 +356,11 @@ When the import is complete, the imported grid is displayed as follows.
 Tracking two types of tracers (without turbulent diffusion)
 ------------------------------------------------------------------------------------------------------------------------
 
-Setting calculation conditions
+Setting Calculation Condition
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-| Open the calculation condition setting window from the menu bar by selecting :menuselection:`Calculation Conditions(C) --> Settings(S)`, and set the parts enclosed in red as follows.
-| Other calculation conditions can be left as default.
+| Open the calculation condition setting window from the menu bar by selecting :menuselection:`Calculation Condition --> Settings`, and set the parts enclosed in red as follows.
+| Other Calculation Condition can be left as default.
 
 .. figure:: images/01/GELATO/setting_1_1.png
    :width: 600pt
@@ -395,7 +395,7 @@ Setting calculation conditions
 Running the calculation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-| Select :menuselection:`Calculation(C) --> Run(R)` from the menu bar, a warning appears, so save it with an appropriate name.
+| Select :menuselection:`Simulation --> Run` from the menu bar, a warning appears, so save it with an appropriate name.
 | The save format can be either [Save to file (ipro)] or [Save as project].
 | Once the save is complete, the calculation starts, and the following window is displayed.
 
@@ -406,10 +406,10 @@ Running the calculation
 
 | When the calculation is finished, a dialog saying "Solver calculation is complete." is displayed, so click :guilabel:`OK`.
 
-Displaying the calculation results
+Displaying the calculation result
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-| Select :menuselection:`Calculation Results(R) --> Open New 2D Visualization Window` from the main menu, and a 2D visualization window is displayed.
+| Select :menuselection:`Calculation Result --> Open new 2D Post-Processing Window` from the main menu, and a 2D visualization window is displayed.
 | Right-click :guilabel:`primary Nomal Tracers` and :guilabel:`secondary Nomal Tracers` in the Object Browser, and select :guilabel:`Properties`, then the following window is displayed.
 | From here, you can change the color of the particles, so change the primary to red and the secondary to blue.
 
@@ -418,7 +418,7 @@ Displaying the calculation results
 
    : Particle properties
 
-| Return the time step to the beginning, and select :menuselection:`Animation(A) --> Start/Stop Animation(S)` from the main menu to play the animation.
+| Return the time step to the beginning, and select :menuselection:`Animation --> Start/Stop Animation` from the main menu to play the animation.
 
 .. figure:: images/01/GELATO/animation_start.png
    :width: 100%
@@ -435,10 +435,10 @@ Since this is a calculation without turbulent diffusion, the result is as simple
 Tracking two types of tracers (with turbulent diffusion)
 ------------------------------------------------------------------------------------------------------------------------
 
-Setting calculation conditions
+Setting Calculation Condition
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-| Change the calculation conditions as they are and perform the calculation considering turbulent diffusion.
-| First, select :menuselection:`Calculation Conditions(C) --> Settings(S)` from the menu bar, and set as follows.
+| Change the Calculation Condition as they are and perform the calculation considering turbulent diffusion.
+| First, select :menuselection:`Calculation Condition --> Settings` from the menu bar, and set as follows.
 
 .. figure:: images/01/GELATO/setting_2_1.png
    :width: 600pt

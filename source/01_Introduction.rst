@@ -39,7 +39,7 @@ The computation of GELATO is performed by the following procedure.
 
 (1) Computation of flows with flow calculation solvers (Nays2DH, Nays2dFlood, Nays2d+, etc.)
 
-(2) Saving of flow calculation results (CGNS file)
+(2) Saving of flow calculation result (CGNS file)
 
 (3) Starting GELATO
 
@@ -47,7 +47,7 @@ The computation of GELATO is performed by the following procedure.
 
 (5) Tracer tracking calculation using the above CGNS file.
 
-(6) Visualization of the calculation results
+(6) Visualization of the calculation result
 
 .. figure:: images/ishikari_kako.gif
    :align: center

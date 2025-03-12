@@ -10,7 +10,7 @@ Specification Changes
 Handling of Time Steps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 | The image below shows the handling of time steps in the previous versions of GELATO.
-| The upper scale shows the time steps and times output from the flow calculation results, and the lower scale shows the time steps and times output by GELATO.
+| The upper scale shows the time steps and times output from the flow calculation result, and the lower scale shows the time steps and times output by GELATO.
 
 .. figure:: images/05/timestep_image_old.png
    :width: 50%
@@ -18,17 +18,17 @@ Handling of Time Steps
 
    : Handling of time steps in previous versions of GELATO
 
-| As shown in the figure, GELATO could output results at finer time steps than the time steps of the loaded calculation results by using the Output Frequency Increase Factor, but the following problems existed:
+| As shown in the figure, GELATO could output results at finer time steps than the time steps of the loaded calculation result by using the Output Frequency Increase Factor, but the following problems existed:
 
-- The initial time step of the loaded calculation results was not output.
-- Changing the Output Frequency Increase Factor caused the time steps of the loaded calculation results and GELATO's time steps to not match.
+- The initial time step of the loaded calculation result was not output.
+- Changing the Output Frequency Increase Factor caused the time steps of the loaded calculation result and GELATO's time steps to not match.
 
 | Due to the above specifications, the output intervals of tracers in GELATO were misaligned, and changing the Output Frequency Increase Factor resulted in different tracer tracking results.
 
 
 | Therefore, in GELATO ver2.x, the initial state can now be output to solve the above problems, and the tracer tracking results do not change even if the Output Frequency Increase Factor is changed.
 | The image below shows the handling of time steps in GELATO ver2.x.
-| The pink triangles indicate which time steps of the flow calculation results are used for the substance transport tracking calculation in GELATO.
+| The pink triangles indicate which time steps of the flow calculation result are used for the substance transport tracking calculation in GELATO.
 
 .. figure:: images/05/timestep_image_new.png
    :width: 50%
@@ -37,7 +37,7 @@ Handling of Time Steps
    : Handling of time steps in GELATO ver2.x
 
 | Additionally, GELATO ver2.x has a feature to output using the original time of the loaded data.
-| For example, if the initial time of the loaded calculation results is 200 seconds, you can choose whether the output time in GELATO starts from 0 seconds or 200 seconds.
+| For example, if the initial time of the loaded calculation result is 200 seconds, you can choose whether the output time in GELATO starts from 0 seconds or 200 seconds.
 | Note that if you use the original time, you need to set the tracer dispersion time and calculation end time in the original time as well.
 
 .. figure:: images/05/timestep_output.png
@@ -46,24 +46,24 @@ Handling of Time Steps
 
    : Setting the time for output
 
-Loading Flow Calculation Results
+Loading Flow Calculation Result
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-| Previously, after starting the solver, the user had to import the grid and specify the path of the calculation results to be loaded in the calculation results dialog.
-| In GELATO ver2.x, it is possible to specify the path of the calculation results directly from the dialog displayed when starting the solver. This makes it easier to import the grid and load the calculation results.
-| Additionally, with this change, you can check information such as which solver was used to calculate the loaded results in the calculation results dialog.
+| Previously, after starting the solver, the user had to import the grid and specify the path of the calculation result to be loaded in the calculation result dialog.
+| In GELATO ver2.x, it is possible to specify the path of the calculation result directly from the dialog displayed when starting the solver. This makes it easier to import the grid and load the calculation result.
+| Additionally, with this change, you can check information such as which solver was used to calculate the loaded results in the calculation result dialog.
 
 .. figure:: images/05/cgns_file_new.png
    :width: 600pt
    :align: center
 
-   : Information displayed in the calculation conditions dialog
+   : Information displayed in the Calculation Condition dialog
 
-| Furthermore, previously, an error occurred when reading flow velocity or water depth from the calculation results if the calculation result names differed from those set in GELATO.
+| Furthermore, previously, an error occurred when reading flow velocity or water depth from the calculation result if the calculation result names differed from those set in GELATO.
 
 .. note::
    For example, for water depth, it could only be read if the solver output the name as :guilabel:`Depth(m)`, :guilabel:`Depth[m]`, :guilabel:`Depth`, or :guilabel:`depth(m)`.
 
-| Therefore, in GELATO ver2.x, the specification has been changed to allow the user to select the target by checking what names of calculation results are in the CGNS file of the loaded calculation results.
+| Therefore, in GELATO ver2.x, the specification has been changed to allow the user to select the target by checking what names of calculation result are in the CGNS file of the loaded calculation result.
 | As a result, although it no longer automatically reads as before, it is possible to read any CGNS file that outputs flow velocity, water depth, or bed elevation, regardless of which solver was used to calculate it.
 
 .. figure:: images/05/select_result_new.png
@@ -88,7 +88,7 @@ Setting Parameters for Fish Simulation
 
    : Fish setting dialog in GELATO ver2.x
 
-| Users create groups of fish in the iRIC calculation conditions dialog and set parameters such as body length, swimming speed, and swimming direction for each group. Two input modes are available: list display mode for each group and table format mode where parameters for each group can be checked at a glance.
+| Users create groups of fish in the iRIC Calculation Condition dialog and set parameters such as body length, swimming speed, and swimming direction for each group. Two input modes are available: list display mode for each group and table format mode where parameters for each group can be checked at a glance.
 
 .. figure:: images/05/new_fish_setting_dialog_02.png
    :width: 500pt
@@ -193,8 +193,8 @@ Drawing Tree and Gravel Polygons
 
 Generating Different Random Patterns
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-| Previously, the random pattern generation was fixed, so the movement due to random walk, etc., was output in the same pattern no matter how many times the same calculation conditions were recalculated.
-| Therefore, a feature has been added to change the seed value of the random number to perform calculations with different random patterns even with the same calculation conditions.
+| Previously, the random pattern generation was fixed, so the movement due to random walk, etc., was output in the same pattern no matter how many times the same Calculation Condition were recalculated.
+| Therefore, a feature has been added to change the seed value of the random number to perform calculations with different random patterns even with the same Calculation Condition.
 
 For details, see :ref:`Random Seed Value` 
 

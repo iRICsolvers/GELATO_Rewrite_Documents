@@ -114,7 +114,7 @@ obtain concentration can be calculated.
 Thus, for example, in the 10th generation when :math:`n=10` , weight is :math:`W=\cfrac{1}{2^9}=0.000195`,
 and in the 20th generations when :math:`n=20`, the weight becomes :math:`W=\cfrac{1}{2^{19}}=0.00000195` .
 
-Calculation results of two-dimensional flows used in GELATO
+Calculation Result of two-dimensional flows used in GELATO
 --------------------------------------------------------------
 
 Since the GELATO tracks tracers in a two-dimensional "flow" in a Lagrangian manner, 
@@ -133,7 +133,7 @@ please visit the iRIC website (https://i-ric.org/) for more details.
 
    : Calculation Procedure by GELATO
 
-The CGNS file that contains the calculation results of the flow used in GELATO is specified from the dialog displayed when the solver is started.
+The CGNS file that contains the calculation result of the flow used in GELATO is specified from the dialog displayed when the solver is started.
 (:numref:`read_cgnsfile`)
 
 .. _read_cgnsfile:
@@ -146,18 +146,18 @@ The CGNS file that contains the calculation results of the flow used in GELATO i
 Computational grids used in GELATO 
 ----------------------------------
 
-| In most cases in GELATO, the computational grid is imported and used from the aforementioned CGNS file containing the calculation results.
-| When you specify the CGNS file of the flow calculation results in the previous dialog, the dialog shown in :numref:`import_grid` will be displayed. If you select "Yes", the computational grid will be automatically loaded.
+| In most cases in GELATO, the computational grid is imported and used from the aforementioned CGNS file containing the calculation result.
+| When you specify the CGNS file of the flow calculation result in the previous dialog, the dialog shown in :numref:`import_grid` will be displayed. If you select "Yes", the computational grid will be automatically loaded.
 
 .. _import_grid:
 
 .. figure:: images/02/import_grid.png
    :width: 300pt
 
-   : Importing the computational grid used in GELATO from the CGNS file of the flow calculation results.
+   : Importing the computational grid used in GELATO from the CGNS file of the flow calculation result.
 
 | When you try to read the grid data included in the CGNS file of the flow calculation project from GELATO, a warning like the one shown in :numref:`import_grid_2` will appear.
-| This is a warning that you are trying to import the grid file of another project (the flow calculation project) even though the currently running project is GELATO. However, you can proceed by pressing "OK", and the grid will be imported from the target flow calculation results and displayed as shown in :numref:`import_grid_3`.
+| This is a warning that you are trying to import the grid file of another project (the flow calculation project) even though the currently running project is GELATO. However, you can proceed by pressing "OK", and the grid will be imported from the target flow calculation result and displayed as shown in :numref:`import_grid_3`.
 
 .. _import_grid_2:
 
