@@ -14,7 +14,7 @@ In the [iRIC start page] , select [Create New Project], and when the [Select Sol
 choose [Nays2DH iRIC 4.x 1.0 64bit] and click [OK] button.
 
 
-.. figure:: images/01/Select_Nays2dh.png
+.. figure:: images/01/Nays2DH/Select_Nays2dh.png
    :align: center
    :width: 600pt
 
@@ -24,7 +24,7 @@ A windows with "Untitled - iRIC 4.x.x.xxxx [Nays2DH]" appears as :numref:`01_mud
 
 .. _01_mudai:
 
-.. figure:: images/01/mudai.png 
+.. figure:: images/01/Nays2DH/mudai.png 
    :align: center
    :width: 100%
 
@@ -41,7 +41,7 @@ From the main menu of the screen, :numref:`01_mudai`, choose [Grid]->[Select Alg
 
 .. _Select_Alg:
 
-.. figure:: images/01/Select_Alg.png
+.. figure:: images/01/Nays2DH/Select_Alg.png
    :align: center
    :width: 100%
 
@@ -51,7 +51,7 @@ In the [Select Grid Creating Algorithm] window, select [Simple Straight and Mean
 
 .. _01_kanni:
 
-.. figure:: images/01/kanni.png
+.. figure:: images/01/Nays2DH/kanni.png
    :align: center
    :width: 600pt
 
@@ -64,7 +64,7 @@ and other values as shown in :numref:`01_koushi_1`, then click [Create Grid].
 
 .. _01_koushi_1:
 
-.. figure:: images/01/koushi_1.png
+.. figure:: images/01/Nays2DH/koushi_1.png
    :align: center
    :width: 600pt
 
@@ -77,7 +77,7 @@ then the computational grid is generated as
 
 .. _01_koushi_3:
 
-.. figure:: images/01/koushi_3.png
+.. figure:: images/01/Nays2DH/koushi_3.png
    :align: center
    :width: 400pt
 
@@ -86,7 +86,7 @@ then the computational grid is generated as
 
 .. _01_koushi_4:
 
-.. figure:: images/01/koushi_4.png
+.. figure:: images/01/Nays2DH/koushi_4.png
    :align: center
    :width: 100%
 
@@ -101,7 +101,7 @@ the [Calculation condition setting window] as  :numref:`01_joken_1` appears.
 
 .. _01_joken_1:
 
-.. figure:: images/01/joken_1.png
+.. figure:: images/01/Nays2DH/joken_1.png
    :align: center
    :width: 600pt
 
@@ -115,7 +115,7 @@ as :numref:`01_joken_3` .
 
 .. _01_joken_2:
 
-.. figure:: images/01/joken_2.png
+.. figure:: images/01/Nays2DH/joken_2.png
    :align: center
    :width: 600pt
 
@@ -123,7 +123,7 @@ as :numref:`01_joken_3` .
 
 .. _01_joken_3:
 
-.. figure:: images/01/joken_3.png
+.. figure:: images/01/Nays2DH/joken_3.png
    :align: center
    :width: 600pt
 
@@ -134,7 +134,7 @@ when you finish, and close this window.
 
 .. _01_joken_4:
 
-.. figure:: images/01/joken_4.png
+.. figure:: images/01/Nays2DH/joken_4.png
    :align: center
    :width: 600pt
 
@@ -164,7 +164,7 @@ Then, select [OK] and save the project with an appropriate name. At this time, d
 
 .. _01_jikko:
 
-.. figure:: images/01/jikko.png
+.. figure:: images/01/Nays2DH/jikko.png
    :align: center
    :width: 100%
 
@@ -173,7 +173,7 @@ Then, select [OK] and save the project with an appropriate name. At this time, d
 
 .. _01_keisan:
 
-.. figure:: images/01/keisan.png
+.. figure:: images/01/Nays2DH/keisan.png
    :align: center
    :width: 250pt
 
@@ -186,7 +186,7 @@ Then, select [OK] and save the project with an appropriate name. At this time, d
 
    .. _01_hozon:
 
-   .. figure:: images/01/hozon.png
+   .. figure:: images/01/Nays2DH/hozon.png
       :align: center
       :width: 100%
 
@@ -202,7 +202,7 @@ select [Calculation Result] -> [Open New 2D Post-processing Window] to open the 
 
 .. _01_kekka_0:
 
-.. figure:: images/01/kekka_0.png
+.. figure:: images/01/Nays2DH/kekka_0.png
    :align: center
    :width: 100%
 
@@ -221,7 +221,7 @@ distribution is uniform under the constant flow condition.
 
 .. _01_kekka_2:
 
-.. figure:: images/01/kekka_2.png
+.. figure:: images/01/Nays2DH/kekka_2.png
    :align: center
    :width: 600pt
 
@@ -229,7 +229,7 @@ distribution is uniform under the constant flow condition.
  
 .. _01_kekka_6:
 
-.. figure:: images/01/kekka_6.png
+.. figure:: images/01/Nays2DH/kekka_6.png
    :align: center
    :width: 100%
 
@@ -245,7 +245,7 @@ Uncheck "Vectors" in the Object Browser, and put check marks in "Particles" and 
 
 .. _01_kekka_9:
 
-.. figure:: images/01/kekka_9.png
+.. figure:: images/01/Nays2DH/kekka_9.png
    :align: center
    :width: 100%
 
@@ -256,7 +256,7 @@ Right click [Particle] and select [Properties] as
 
 .. _01_kekka_10:
 
-.. figure:: images/01/kekka_10.png
+.. figure:: images/01/Nays2DH/kekka_10.png
    :align: center
    :width: 100%
 
@@ -266,7 +266,7 @@ Set parameters for particle injection as shown in red box in :numref:`01_kekka_1
 
 .. _01_kekka_11:
 
-.. figure:: images/01/kekka_11.png
+.. figure:: images/01/Nays2DH/kekka_11.png
    :align: center
    :width: 250pt
 
@@ -278,7 +278,7 @@ Then the particle animation starts.
 
 .. _01_kekka_12:
 
-.. figure:: images/01/kekka_12.png
+.. figure:: images/01/Nays2DH/kekka_12.png
    :align: center
    :width: 100%
 
@@ -287,7 +287,7 @@ Then the particle animation starts.
 
 .. _01_kekka_13:
 
-.. figure:: images/01/nays2d_particle.gif
+.. figure:: images/01/Nays2DH/nays2d_particle.gif
    :align: center
    :width: 100%
 
@@ -297,260 +297,166 @@ As can be seen in :numref:`01_kekka_13`, since the
 sub-grid scale turbulence is not included in the output velocity from the solver.
 It only shows very simple steady and uniform movement.
 
+Tracer tracking with GELATO
+========================================================================================================================
 
-Tracer Tracking by GELATO
-===========================
+Starting GELATO and importing the grid
+------------------------------------------------------------------------------------------------------------------------
 
-Starting GELATO
-----------------
+From the iRIC start screen, select [Create New Project], and in the solver selection screen that appears, select "GELATO ver2.x" and click "OK".
 
-From the iRIC startup screen, select [New Project], and in the solver selection screen appears. 
-Select "GELATO" and click "OK" ( :numref:`01_GELATO_kido` ).
+.. figure:: images/01/GELATO/kido.png
+   :width: 800pt
 
-.. _01_GELATO_kido:
+   : Selecting and starting GELATO
 
-.. figure:: images/01/GELATO_kido.png
-   :align: center
+
+The GELATO session starts, and a dialog box titled "Select CGNS file for input" appears.
+
+.. figure:: images/01/GELATO/openning.png
+   :width: 100%
+
+   : Starting GELATO
+  
+Click the :guilabel:`...` button to display the file selection dialog, and select the CGNS file of the Nays2DH calculation result that was calculated earlier.
+
+.. figure:: images/01/GELATO/import_grid.png
+   :width: 100%
+
+   : Selecting the CGNS file of the calculation result_1
+
+The information of the selected CGNS file is displayed in the dialog, so click :guilabel:`OK`.
+
+.. figure:: images/01/GELATO/import_grid_2.png
+   :width: 40%
+
+   : Selecting the CGNS file of the calculation result_2
+
+A dialog asking whether to import the grid appears, so click :guilabel:`Yes`.
+
+.. figure:: images/01/GELATO/import_grid_3.png
+   :width: 30%
+
+   : Importing the grid_1
+
+The following error is displayed, but this always appears when trying to load the grid of a different solver, so click :guilabel:`Yes` without worrying about it.
+
+.. figure:: images/01/GELATO/import_grid_4.png
+   :width: 40%
+
+   : Importing the grid_2
+
+When the import is complete, the imported grid is displayed as follows.
+
+.. figure:: images/01/GELATO/import_grid_5.png
+   :width: 100%
+
+   : Grid import complete
+
+Tracking two types of tracers (without turbulent diffusion)
+------------------------------------------------------------------------------------------------------------------------
+
+Setting calculation conditions
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+| Open the calculation condition setting window from the menu bar by selecting :menuselection:`Calculation Conditions(C) --> Settings(S)`, and set the parts enclosed in red as follows.
+| Other calculation conditions can be left as default.
+
+.. figure:: images/01/GELATO/setting_1_1.png
    :width: 600pt
 
-   : Selecting GELATO and Starting
+   : Setting calculation conditions_1
 
-
-A window with [Untitled -iRIC 4.x.xxxx] [GELATO] appears, and the GELATO session is started.
-(:numref:`01_GELATO_openning` )
-
-.. _01_GELATO_openning:
-
-.. figure:: images/01/GELATO_openning.png
-   :align: center
-   :width: 100%
-
-   : Opening GELATO 
-
-At this stage, the [Grid] in the [Object Browser] 
-shows [No data] as shown in :numref:`01_GELATO_openning` , 
-we will first import the grid data created in :ref:`01_lavel_koshi` session.
-
-.. _01_GELATO_import:
-
-.. figure:: images/01/GELATO_import.png
-   :align: center
-   :width: 100%
-
-   : Grid data import
-
-Right click [Grid(No Data)] and select [Import] as (:numref:`01_GELATO_import` ).
-
-.. _01_GELATO_koshi_1:
-
-.. figure:: images/01/GELATO_koshi_1.png
-   :align: center
+.. figure:: images/01/GELATO/setting_1_2.png
    :width: 600pt
 
-   : Select CGNS file contains grid data
+   : Setting calculation conditions_2
 
-As shown in :numref:`01_GELATO_koshi_1`, select [Case1.cgn] which contains the grid data
-used in the previous section of [Computational Results of Nays2DH], and click [Open].
-
-.. _01_GELATO_wng:
-
-.. figure:: images/01/GELATO_wng.png
-   :align: center
-   :width: 400pt
-
-   : Warning Message
-
-A warning message is coming out as :numref:`01_GELATO_wng` ,
-Just click [Yes] without worry, and the grid import is completed as
-:numref:`01_GELATO_grid` .
-
-.. _01_GELATO_grid:
-
-.. figure:: images/01/GELATO_grid.png
-   :align: center
-   :width: 100%
-
-   : Grid import completed
-
-Single Tracer Tracking(Without Turbulent Diffusivity)
---------------------------------------------------------
-
-Condition Settings
-^^^^^^^^^^^^^^^^^^^^^
-
-Choose [Calculation Condition]->[Setting] as :numref:`01_joken_0` 
-
-.. _01_joken_0:
-
-.. figure:: images/01/joken_0.png
-   :align: center
-   :width: 100%
-
-   : Calculation Condition Settings(0)
-
-
-Set parameters as follows.  
-
-[Flow information file name] is Locat of the CGNS file to read the calculation result of the flow field. Here, 
-the CGNS file produced by the Nays2DH computation.( :ref:`res_Nays2DH` ).
-
-.. _01_GELATO_joken_1:
-
-.. figure:: images/01/GELATO_joken_1.png
-   :align: center
+.. figure:: images/01/GELATO/setting_1_3.png
    :width: 600pt
 
-   : Basic Settings
+   : Setting calculation conditions_3
 
-.. _01_GELATO_joken_2:
-
-.. figure:: images/01/GELATO_joken_2.png
-   :align: center
+.. figure:: images/01/GELATO/setting_1_4.png
    :width: 600pt
 
-   : Primary Tracers Supplying Condition
+   : Setting calculation conditions_4
 
-.. _01_GELATO_joken_3:
-
-.. figure:: images/01/GELATO_joken_3.png
-   :align: center
+.. figure:: images/01/GELATO/setting_1_5.png
    :width: 600pt
 
-   : Secondary Tracers Supplying Condition
+   : Setting calculation conditions_5
 
-.. _01_GELATO_joken_4:
-
-.. figure:: images/01/GELATO_joken_4.png
-   :align: center
+.. figure:: images/01/GELATO/setting_1_6.png
    :width: 600pt
 
-   : Time Settings for Normal Tracers
+   : Setting calculation conditions_6
 
-.. _01_GELATO_joken_5:
+Running the calculation
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: images/01/GELATO_joken_5.png
-   :align: center
+| Select :menuselection:`Calculation(C) --> Run(R)` from the menu bar, a warning appears, so save it with an appropriate name.
+| The save format can be either [Save to file (ipro)] or [Save as project].
+| Once the save is complete, the calculation starts, and the following window is displayed.
+
+.. figure:: images/01/GELATO/console.png
+   :width: 100%
+
+   : Calculation running screen
+
+| When the calculation is finished, a dialog saying "Solver calculation is complete." is displayed, so click :guilabel:`OK`.
+
+Displaying the calculation results
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+| Select :menuselection:`Calculation Results(R) --> Open New 2D Visualization Window` from the main menu, and a 2D visualization window is displayed.
+| Right-click :guilabel:`primary Nomal Tracers` and :guilabel:`secondary Nomal Tracers` in the Object Browser, and select :guilabel:`Properties`, then the following window is displayed.
+| From here, you can change the color of the particles, so change the primary to red and the secondary to blue.
+
+.. figure:: images/01/GELATO/particle_property.png
    :width: 600pt
 
-   : Diffusion Condition
+   : Particle properties
 
+| Return the time step to the beginning, and select :menuselection:`Animation(A) --> Start/Stop Animation(S)` from the main menu to play the animation.
 
-Launch GELATO
-^^^^^^^^^^^^^^^
-
-From the main menu bar, select [Simulation]->[Run], then you are asked as :numref:`01_GELATO_jikko_0`.
-When you click [OK] and save project, the computation starts as :numref:`01_GELATO_jikko_1`.
-
-.. _01_GELATO_jikko_0:
-
-.. figure:: images/01/warning.png
-   :align: center
-   :width: 400pt
-
-   : warning
-
-.. _01_GELATO_jikko_1:
-
-.. figure:: images/01/GELATO_jikko_1.png
-   :align: center
+.. figure:: images/01/GELATO/animation_start.png
    :width: 100%
 
-   : Launch GELATO
+   : Playing the animation
 
-When the computation finishes, :numref:`01_GELATO_jikko_2` appears, and click [OK] for confirmation.
+Since this is a calculation without turbulent diffusion, the result is as simple as follows.
 
-.. _01_GELATO_jikko_2:
-
-.. figure:: images/01/GELATO_jikko_2.png
-   :align: center
-   :width: 250pt
-
-   : Computation finished 
-
-Visualization of Computational Results
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-From the main menu, select [Calculation Result]->[Open ne 2D Post-processing Window] as :numref:`01_GELATO_kekka_0`, then [2D Post Processing Window] will appear.
-
-.. _01_GELATO_kekka_0:
-
-.. figure:: images/01/GELATO_kekka_0.png
-   :align: center
-   :width: 100%
-
-   : Open 2D Post Processing Window
-
-| Right-click [Primary Nomal Tracers] and [Secondary Nomal Tracers] in the [Object Browser] and click [propertie]. 
-| Then [Particles Scalar Setting] that appears,and you can set the primary and secondary have different colors by setting like :numref:`01_GELATO_kekka_2`.
-
-.. _01_GELATO_kekka_2:
-
-.. figure:: images/01/GELATO_kekka_2.png
-   :align: center
-   :width: 100%
-
-   : Setting particles colors
-
-From the main menu, select [Animation]->[Start/Stop] as :numref:`01_GELATO_kekka_1`,
-animation starts ( :numref:`01_GELATO_00` ).
-
-.. _01_GELATO_kekka_1:
-
-.. figure:: images/01/GELATO_kekka_1.png
-   :align: center
-   :width: 100%
-
-   : Visualization of computational results
-
-.. _01_GELATO_00:
-
-.. figure:: images/01/GELATO_00.gif
-   :align: center
+.. figure:: images/01/GELATO/A_0_animation.gif
    :width: 70%
 
-   : Tracer movement(No diffusivity)
+   : Particle animation by GELATO (without diffusion)
 
-It is obviously very simple because it  doesn't including any turbulent effect (:numref:`01_GELATO_00`).
+Tracking two types of tracers (with turbulent diffusion)
+------------------------------------------------------------------------------------------------------------------------
 
-Single Tracer Tracking(With Turbulent Diffusivity)
------------------------------------------------------
+Setting calculation conditions
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+| Change the calculation conditions as they are and perform the calculation considering turbulent diffusion.
+| First, select :menuselection:`Calculation Conditions(C) --> Settings(S)` from the menu bar, and set as follows.
 
-Setting Computational Condition
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Change the calculation conditions to take into account for the effect of turbulent diffusion. 
-From the main menu, select [Calculation Conditions] → [Setting], and show the :numref:`01_GELATO_joken_6`.
-check the box of [Diffusion Condition]->[Diffusivity Correction] , set the parameter [A Value] to [1], and then click "OK".
-
-.. _01_GELATO_joken_6:
-
-.. figure:: images/01/GELATO_joken_6.png
-   :align: center
+.. figure:: images/01/GELATO/setting_2_1.png
    :width: 600pt
 
-   : Calculation Condition (Diffusion Condition)
+   : Setting conditions for diffusion
 
-Launch GELATO and the Results Visualization
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Running the calculation and displaying the results
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+| Running the calculation with this setting yields the following results.
 
-Computation can be conducted through the same procedure as previous example, 
-the animation becomes as :numref:`01_GELATO_01`.
-
-.. _01_GELATO_01:
-
-.. figure:: images/01/GELATO_01.gif
-   :align: center
+.. figure:: images/01/GELATO/A_1_animation.gif
    :width: 70%
 
-   : Tracer Movement(With Turbulent Diffusivity A=1)
+   : Particle animation by GELATO (with diffusion A=1)
 
-When the value of A is set as [10], the results become as 
-:numref:`01_GELATO_10`, the effect of the turbulent becomes stronger.
+| Furthermore, if the value of A is set to 10, it becomes as follows, and the influence of turbulence becomes clearly larger.
 
-.. _01_GELATO_10:
-
-.. figure:: images/01/GELATO_10.gif
-   :align: center
+.. figure:: images/01/GELATO/A_10_animation.gif
    :width: 70%
 
-   : Tracer Movement(With Turbulent Diffusivity A=10)
+   : Particle animation by GELATO (with diffusion A=10)

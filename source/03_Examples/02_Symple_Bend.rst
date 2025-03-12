@@ -45,7 +45,7 @@ From the iRIC startup screen, click [Create New Project], and select
 
 .. _02_Select_Nays2dh:
 
-.. figure:: images/01/Select_Nays2dh.png
+.. figure:: images/01/Nays2DH/Select_Nays2dh.png
    :align: center
    :width: 600pt
 
@@ -55,7 +55,7 @@ A window titled as"Untitled- iRIC 4.x.xxxx [Nays2DH iRIC4X 1.0 64bit]"appears.
 
 .. _02_mudai:
 
-.. figure:: images/01/mudai.png 
+.. figure:: images/01/Nays2DH/mudai.png 
    :align: center
    :width: 100%
 
@@ -71,7 +71,7 @@ Select from the main menu [Grid]->[Select Algorithm]. Then a window appears as
 
 .. _02_koshi1:
 
-.. figure:: images/02/koshi1.png 
+.. figure:: images/02/Nays2DH/koshi1.png 
    :align: center
    :width: 600pt
 
@@ -87,7 +87,7 @@ fixed/moveable bed] as,
 
 .. _02_koshi2:
 
-.. figure:: images/02/koshi2.png
+.. figure:: images/02/Nays2DH/koshi2.png
    :align: center
    :width: 600pt
 
@@ -95,7 +95,7 @@ fixed/moveable bed] as,
 
 .. _02_koshi3:
 
-.. figure:: images/02/koshi3.png
+.. figure:: images/02/Nays2DH/koshi3.png
    :align: center
    :width: 600pt
 
@@ -103,7 +103,7 @@ fixed/moveable bed] as,
 
 .. _02_koshi4:
 
-.. figure:: images/02/koshi4.png 
+.. figure:: images/02/Nays2DH/koshi4.png 
    :align: center
    :width: 600pt
 
@@ -111,7 +111,7 @@ fixed/moveable bed] as,
 
 .. _02_koshi5:
 
-.. figure:: images/02/koshi5.png
+.. figure:: images/02/Nays2DH/koshi5.png
    :align: center
    :width: 600pt
 
@@ -125,7 +125,7 @@ the computational grid is created.
 
 .. _02_mapping:
 
-.. figure:: images/02/mapping.png
+.. figure:: images/02/Nays2DH/mapping.png
    :align: center
    :width: 400pt
 
@@ -136,7 +136,7 @@ Put check marks in [Grid], [Cell Attributes] and [Fixed or Moveable bed] in the 
 
 .. _02_koshi6:
 
-.. figure:: images/02/koshi6.png
+.. figure:: images/02/Nays2DH/koshi6.png
    :align: center
    :width: 100%
 
@@ -151,7 +151,7 @@ the revetment part (in this case, the red section upstream of grid number 101) a
 
 .. _02_koshi7:
 
-.. figure:: images/02/koshi7.png
+.. figure:: images/02/Nays2DH/koshi7.png
    :align: center
    :width: 100%
 
@@ -162,7 +162,7 @@ by expanding and rotating, as demonstrated in :numref:`02_koshi8`.
 
 .. _02_koshi8:
 
-.. figure:: images/02/koshi8.png
+.. figure:: images/02/Nays2DH/koshi8.png
    :align: center
    :width: 100%
 
@@ -181,7 +181,7 @@ and in the [Group] of [Solver Type], [Boundary Condition], [Time] and [Bed Mater
 
 .. _02_joken1:
 
-.. figure:: images/02/joken1.png
+.. figure:: images/02/Nays2DH/joken1.png
    :align: center
    :width: 600pt
 
@@ -189,7 +189,7 @@ and in the [Group] of [Solver Type], [Boundary Condition], [Time] and [Bed Mater
 
 .. _02_joken2:
 
-.. figure:: images/02/joken2.png
+.. figure:: images/02/Nays2DH/joken2.png
    :align: center
    :width: 600pt
 
@@ -197,7 +197,7 @@ and in the [Group] of [Solver Type], [Boundary Condition], [Time] and [Bed Mater
 
 .. _02_joken3:
 
-.. figure:: images/02/joken3.png
+.. figure:: images/02/Nays2DH/joken3.png
    :align: center
    :width: 600pt
 
@@ -205,7 +205,7 @@ and in the [Group] of [Solver Type], [Boundary Condition], [Time] and [Bed Mater
 
 .. _02_joken4:
 
-.. figure:: images/02/joken4.png
+.. figure:: images/02/Nays2DH/joken4.png
    :align: center
    :width: 600pt
 
@@ -219,7 +219,7 @@ window as :numref:`02_joken5`, and press [OK].
 
 .. _02_joken5:
 
-.. figure:: images/02/joken5.png
+.. figure:: images/02/Nays2DH/joken5.png
    :align: center
    :width: 600pt
 
@@ -236,7 +236,7 @@ Here we save the project as a name of [Nays2DH_flow_bed] (:numref:`02_save_proje
 
 .. _02_save_project:
 
-.. figure:: images/02/save_project.png
+.. figure:: images/02/Nays2DH/save_project.png
    :align: center
    :width: 600pt
 
@@ -254,7 +254,7 @@ From the main menu, when you select [Simulation]->[Run], you will get the messag
 
 .. _02_jikko2:
 
-.. figure:: images/02/jikko2.png
+.. figure:: images/02/Nays2DH/jikko2.png
    :align: center
    :width: 100%
 
@@ -271,7 +271,7 @@ Open a [Post Processing Window] by selecting [Calculation Result]->[Open new 2D 
 
 .. _02_hyoji1-0:
 
-.. figure:: images/02/hyoji1-0.png
+.. figure:: images/02/Nays2DH/hyoji1-0.png
    :align: center
    :width: 100%
 
@@ -284,7 +284,7 @@ open [Scalar Settings], and set parameters as :numref:`02_hyoji1`.
 
 .. _02_hyoji1:
 
-.. figure:: images/02/hyoji1.png
+.. figure:: images/02/Nays2DH/hyoji1.png
    :align: center
    :width: 70%
 
@@ -297,7 +297,7 @@ as :numref:`02_hyoji2`, and set parameters as marked with red squares in the
 
 .. _02_hyoji2:
 
-.. figure:: images/02/hyoji2.png
+.. figure:: images/02/Nays2DH/hyoji2.png
    :align: center
    :width: 70%
 
@@ -308,7 +308,7 @@ start animation as :numref:`02_hyoji3`.
 
 .. _02_hyoji3:
 
-.. figure:: images/02/hyoji3.png
+.. figure:: images/02/Nays2DH/hyoji3.png
    :align: center
    :width: 100%
 
@@ -318,7 +318,7 @@ As shown in :numref:`02_hyoji4`, it is shown that the bed elevation change reach
 
 .. _02_hyoji4:
 
-.. figure:: images/02/hyoji4.gif
+.. figure:: images/02/Nays2DH/hyoji4.gif
    :align: center
    :width: 100%
 
@@ -333,7 +333,7 @@ As shown in :numref:`02_export`, select [File]->[Export]->[Calculation Result].
 
 .. _02_export:
 
-.. figure:: images/02/export.png
+.. figure:: images/02/Nays2DH/export.png
    :align: center
    :width: 100%
 
@@ -345,7 +345,7 @@ choose [Format] as [Topography Files(\*.tpo)].
 
 .. _02_export2:
 
-.. figure:: images/02/export2.png
+.. figure:: images/02/Nays2DH/export2.png
    :align: center
    :width: 300pt
 
@@ -358,7 +358,7 @@ Then click [OK] to complete the export of the calculation Results
 
 .. _02_export3:
 
-.. figure:: images/02/export3.png
+.. figure:: images/02/Nays2DH/export3.png
    :align: center
    :width: 300pt
 
@@ -372,7 +372,7 @@ all files except [Result_1_Elevation(m).tpo] can be deleted.
 
 .. _02_export4:
 
-.. figure:: images/02/export4.png
+.. figure:: images/02/Nays2DH/export4.png
    :align: center
    :width: 600pt
 
@@ -391,7 +391,7 @@ From the iRIC startup screen, click [Create New Project], and select
 
 .. _02_select2:
 
-.. figure:: images/02/select2.png
+.. figure:: images/02/Nays2D+/select2.png
    :align: center
    :width: 450pt
 
@@ -409,7 +409,7 @@ was created in the previous section.  While importing, a warning as
 
 .. _02_koshi10:
 
-.. figure:: images/02/koshi10.png
+.. figure:: images/02/Nays2D+/koshi10.png
    :align: center
    :width: 400pt
 
@@ -417,7 +417,7 @@ was created in the previous section.  While importing, a warning as
 
 .. _02_koshi11:
 
-.. figure:: images/02/koshi11.png
+.. figure:: images/02/Nays2D+/koshi11.png
    :align: center
    :width: 100%
 
@@ -430,7 +430,7 @@ From the main menu, select [Import]->[Geographic Data]->[Elevation](:numref:`02_
 
 .. _02_import2:
 
-.. figure:: images/02/import2.png
+.. figure:: images/02/Nays2D+/import2.png
    :align: center
    :width: 100%
 
@@ -441,7 +441,7 @@ which was exported from Nays2DH calculated results in the previous section.
 
 .. _02_import3:
 
-.. figure:: images/02/import3.png
+.. figure:: images/02/Nays2D+/import3.png
    :align: center
    :width: 600pt
 
@@ -453,7 +453,7 @@ you can leave it as it is, and press [OK] to complete the import the [Bed Elevat
 
 .. _02_import4:
 
-.. figure:: images/02/import4.png
+.. figure:: images/02/Nays2D+/import4.png
    :align: center
    :width: 50%
 
@@ -463,7 +463,7 @@ you can leave it as it is, and press [OK] to complete the import the [Bed Elevat
 
 .. _02_import5:
 
-.. figure:: images/02/import5.png
+.. figure:: images/02/Nays2D+/import5.png
    :align: center
    :width: 100%
 
@@ -477,7 +477,7 @@ Select [Grid]->[Attribute Mapping]->[Execute] as :numref:`02_mapping2`.
 
 .. _02_mapping2:
 
-.. figure:: images/02/mapping2.png
+.. figure:: images/02/Nays2D+/mapping2.png
    :align: center
    :width: 100%
 
@@ -489,7 +489,7 @@ Put check mark in the box of [Elevation(m)], and press [OK].
 
 .. _02_mapping3:
 
-.. figure:: images/02/mapping3.png
+.. figure:: images/02/Nays2D+/mapping3.png
    :align: center
    :width: 200pt
 
@@ -499,7 +499,7 @@ When the mapping is completed, press [OK] as :numref:`02_mapping4`.
 
 .. _02_mapping4:
 
-.. figure:: images/02/mapping4.png
+.. figure:: images/02/Nays2D+/mapping4.png
    :align: center
    :width: 250pt
 
@@ -521,7 +521,7 @@ set parameters in the [Groups] of [Discharge and downstream water surface elevat
 
 .. _02_joken6:
 
-.. figure:: images/02/joken6.png
+.. figure:: images/02/Nays2D+/joken6.png
    :align: center
    :width: 100%
 
@@ -529,7 +529,7 @@ set parameters in the [Groups] of [Discharge and downstream water surface elevat
 
 .. _02_joken7:
 
-.. figure:: images/02/joken7.png
+.. figure:: images/02/Nays2D+/joken7.png
    :align: center
    :width: 100%
 
@@ -537,7 +537,7 @@ set parameters in the [Groups] of [Discharge and downstream water surface elevat
 
 .. _02_joken8:
 
-.. figure:: images/02/joken8.png
+.. figure:: images/02/Nays2D+/joken8.png
    :align: center
    :width: 100%
 
@@ -545,7 +545,7 @@ set parameters in the [Groups] of [Discharge and downstream water surface elevat
 
 .. _02_joken9:
 
-.. figure:: images/02/joken9.png
+.. figure:: images/02/Nays2D+/joken9.png
    :align: center
    :width: 100%
 
@@ -553,7 +553,7 @@ set parameters in the [Groups] of [Discharge and downstream water surface elevat
 
 .. _02_joken10:
 
-.. figure:: images/02/joken10.png
+.. figure:: images/02/Nays2D+/joken10.png
    :align: center
    :width: 100%
 
@@ -566,7 +566,7 @@ In addition, while in the settings of the [Discharge and downstream water surfac
 
 .. _02_joken11:
 
-.. figure:: images/02/joken11.png
+.. figure:: images/02/Nays2D+/joken11.png
    :align: center
    :width: 100%
 
@@ -585,7 +585,7 @@ In this case, we save the file to a project named [Nays2d+Flow].
 
 .. _02_save_project2:
 
-.. figure:: images/02/save_project2.png
+.. figure:: images/02/Nays2D+/save_project2.png
    :align: center
    :width: 100%
 
@@ -598,533 +598,324 @@ computation of GELATO as input data.  Be sure to save the result using
 
 .. _02_jikko4:
 
-.. figure:: images/02/jikko4.png
+.. figure:: images/02/Nays2D+/jikko4.png
    :align: center
    :width: 100%
 
    : Save the Results of the Computation (Don't Forget!)
 
-Tracer Tracking by GELATO 
+Tracer Tracking Calculation by GELATO
 ========================================================================================================================
 
-Select a Solver
+Launching GELATO and Importing Grid
 ------------------------------------------------------------------------------------------------------------------------
 
-From the iRIC startup screen, select [New Project], and in the solver selection screen appears. 
-Select "GELATO" and click "OK" (:numref:`02_select_GELATO`).
+From the iRIC startup screen, select [Create New Project], and in the solver selection screen that appears, select "GELATO ver2.x" and click "OK".
 
-.. _02_select_GELATO:
+.. figure:: images/01/GELATO/kido.png
+   :width: 800pt
 
-.. figure:: images/01/GELATO_kido.png
-   :align: center
-   :width: 600pt
+   : Selecting and Launching GELATO
 
-   : Select and Launch GELATO
 
-Import Grid
+A GELATO session starts, and a dialog titled "Select CGNS file for input" appears.
+
+.. figure:: images/01/GELATO/openning.png
+   :width: 100%
+
+   : Launching GELATO
+  
+Click the :guilabel:`...` button to display the file selection dialog, and select the CGNS file of the calculation result of [Nays2d+Flow] calculated earlier.
+
+.. figure:: images/02/GELATO/import_grid_1.png
+   :width: 80%
+
+   : Selecting Calculation Result CGNS_1
+
+The information of the selected CGNS file is displayed in the dialog, so click :guilabel:`OK`.
+
+.. figure:: images/02/GELATO/import_grid_2.png   
+   :width: 30%
+
+   : Selecting Calculation Result CGNS_2
+
+A dialog asking whether to import the grid appears, so click :guilabel:`Yes`.
+
+.. figure:: images/01/GELATO/import_grid_3.png
+   :width: 30%
+
+   : Importing Grid_1
+
+An error like the one below will be displayed, but this always appears when trying to load the grid of a different solver, so click :guilabel:`Yes` without worrying about it.
+
+.. figure:: images/02/GELATO/import_grid_3.png
+   :width: 40%
+
+   : Importing Grid_2
+
+When the import is complete, the imported grid is displayed as shown below.
+
+.. figure:: images/02/GELATO/import_grid_4.png
+   :width: 100%
+
+   : Grid Import Complete
+
+Tracer Tracking Calculation by GELATO
 ------------------------------------------------------------------------------------------------------------------------
 
-Right click [Grid(No Data)] and select [Import] as :numref:`02_import_grid1`.
+Setting Calculation Conditions
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+| Open the calculation condition setting window from the menu bar :menuselection:`Calculation Condition(C) --> Setting(S)` and set the parts enclosed in red as follows.
+| Other calculation conditions can be left as default.
 
-.. _02_import_grid1:
+.. figure:: images/02/GELATO/setting_1_1.png
+   :width: 60%
 
-.. figure:: images/02/import_grid1.png
-   :align: center
+   : Setting Calculation Conditions_1
+
+.. figure:: images/02/GELATO/setting_1_2.png
+   :width: 60%
+
+   : Setting Calculation Conditions_2
+
+.. figure:: images/02/GELATO/setting_1_3.png
+   :width: 60%
+
+   : Setting Calculation Conditions_3
+
+.. figure:: images/02/GELATO/setting_1_4.png
+   :width: 60%
+
+   : Setting Calculation Conditions_4
+
+.. figure:: images/02/GELATO/setting_1_5.png
+   :width: 60%
+
+   : Setting Calculation Conditions_5
+
+.. note::
+   In Setting Calculation Conditions_2, if you change :guilabel:`X-axis velocity (m/s)` and :guilabel:`Y-axis velocity (m/s)` to :guilabel:`SurfaceVelocityX` and :guilabel:`SurfaceVelocityY`, it is possible to track tracers using surface velocity or bottom velocity.
+
+Executing Calculation
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+| Select :menuselection:`Calculation(C) --> Execute(R)` from the menu bar, a warning will appear, so save it with an appropriate name.
+| The save format at this time can be either [Save to file (ipro)] or [Save as project].
+| When the save is complete, the calculation starts, and a window like the one below is displayed.
+
+.. figure:: images/02/GELATO/console.png
    :width: 100%
 
-   : [Import Grid(1)]
+   : Calculation Execution Screen
 
-From the [Select Import File] window as :numref:`02_import_grid2`, choose [Case1.cgn] in the folder [Nays2d+Flow] which is produced by the [Nays2d+] calculation in the previous section.
+| When the calculation is finished, a dialog saying "Solver calculation is finished." will be displayed, so click :guilabel:`OK`.
 
-.. _02_import_grid2:
+Displaying Calculation Results
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: images/02/import_grid2.png
-   :align: center
-   :width: 600pt
+| Select :menuselection:`Calculation Result(R) --> Open new visualization window (2D)` from the main menu, and a two-dimensional visualization window will be displayed.
 
-   : [Import Grid(2)]
-
-Press [Yes] button when warning message is coming out as 
-:numref:`02_import6`, and the grid import is completed as :numref:`02_import7`.
-
-.. _02_import6:
-
-.. figure:: images/02/import6.png
-   :align: center
-   :width: 400pt
-
-   : [Warning Message]
-
-.. _02_import7:
-
-.. figure:: images/02/import7.png
-   :align: center
+.. figure:: images/02/GELATO/visualization.png
    :width: 100%
 
-   : [Grid Import Completed]
+   : Visualization Window
 
-Tracer Tracking Simulation by GELATO
+| Since the orientation is opposite to the experimental image shown at the beginning of this chapter :numref:`02_jikken`, click the 90° rotation mark indicated by the arrow in the image below twice to rotate it 180°.
+
+.. figure:: images/02/GELATO/rotate.png
+   :width: 100%
+
+   : Image Rotation
+
+| The time display is very small and hard to see, so right-click [Time] in the object browser, display [Time Settings] from [Properties], and appropriately increase the font size.
+
+.. figure:: images/02/GELATO/time_size_setting.png
+   :width: 100%
+
+   : Time Display Settings
+
+| Return the time step to the beginning, and select :menuselection:`Animation(A) --> Start/Stop(S)` from the main menu to play the animation.
+
+.. figure:: images/02/GELATO/animation_start.png
+   :width: 100%
+
+   : Playing Animation
+
+| It can be seen that the tracer flows in a linear fashion without much diffusion.
+
+.. figure:: images/02/GELATO/A_0_animation.gif
+   :width: 70%
+
+   : Tracer Animation (Turbulent Diffusion Intensity A=0)
+
+Comparison of Different Turbulent Diffusion Intensities
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+| Change the calculation conditions as they are and perform calculations considering turbulent diffusion.
+| It is convenient to save each calculation project with a different name.
+| First, select :menuselection:`Calculation Condition(C) --> Setting(S)` from the menu bar and set it as follows.
+
+.. figure:: images/02/GELATO/setting_2_1.png
+   :width: 60%
+
+   : Setting Calculation Conditions_1
+
+| When you execute the calculation with this setting, the following result is obtained.
+
+.. figure:: images/02/GELATO/A_1_animation.gif
+   :width: 70%
+
+   : Tracer Animation (Turbulent Diffusion Intensity A=1)
+
+| Similarly, try random walks with [A=5], [A=10], and [A=50]...
+
+.. figure:: images/02/GELATO/A_5_animation.gif
+   :width: 70%
+
+   : Tracer Animation (Turbulent Diffusion Intensity A=5)
+
+.. figure:: images/02/GELATO/A_10_animation.gif
+   :width: 70%
+
+   : Tracer Animation (Turbulent Diffusion Intensity A=10)
+
+.. figure:: images/02/GELATO/A_50_animation.gif
+   :width: 70%
+
+   : Tracer Animation (Turbulent Diffusion Intensity A=50)
+
+Comparing with :numref:`02_jikken`, it can be seen that the feeling is around [A=10].
+
+Tracer Cloning
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+| Select :menuselection:`Calculation Condition(C) --> Setting(S)` from the menu bar and set it as follows.
+| Since other calculation conditions are the same as when calculating [A=10], it is good to copy the project and change only the following parts.
+
+.. figure:: images/02/GELATO/setting_3_1.png
+   :width: 60%
+
+   : Setting Calculation Conditions_1
+
+| When you execute the calculation again, the following result is obtained.
+
+.. figure:: images/02/GELATO/A_10_clone_animation.gif
+   :width: 70%
+
+   : Tracer Clone Display (Up to 20 Generations, A=10)
+
+| The diffusion range of the tracer is close to the diffusion range of the green dye in the experimental video of :numref:`02_jikken`.
+| Here, if you check :guilabel:`Primary Normal Tracers` -> :guilabel:`Scalar` -> :guilabel:`Generation(Primary)` in the object browser, the generation will be displayed.
+| When you display this as an animation, it looks like the following.
+
+.. figure:: images/02/GELATO/A_10_clone_generation_animation.gif
+   :width: 70%
+
+   : Tracer Clone Display (Up to 20 Generations, A=10, Generation Display)
+
+| As mentioned in " :ref:`cloning00` ", the actual weight is :math:`W=0.00195` for the 10th generation and :math:`W=0.00000195` for the 20th generation, so the concentration of tracers such as green, yellow, and red is logarithmically lower than the blue-based tracers in the center.
+| Next, visualize the actual concentration by multiplying the number of tracers in the grid by the weight.
+
+1. In the object browser, uncheck :guilabel:`Primary Normal Tracers` -> :guilabel:`Scalar`, and check :guilabel:`Scalar (Cell Center)` -> :guilabel:`Weighted Particle Number (Primary)`.
+
+   .. figure:: images/02/GELATO/scalar_setting_3_1.png
+      :width: 100%
+
+      : Scalar Setting_1
+
+2. Right-click :guilabel:`Weighted Particle Number (Primary)` and select :guilabel:`Properties`.
+
+   .. figure:: images/02/GELATO/scalar_setting_3_2.png
+      :width: 40%
+
+      : Scalar Setting_2
+
+1. In the [Scalar Settings] window, set it as follows and click :guilabel:`OK`.
+
+   .. figure:: images/02/GELATO/scalar_setting_3_3.png
+      :width: 60%
+
+      : Scalar Setting_3
+
+When you play the animation, it looks like the following.
+
+.. figure:: images/02/GELATO/A_10_clone_weighted_animation.gif
+   :width: 70%
+
+   : Tracer Clone Display (Up to 20 Generations, A=10, Weighted Display)
+
+Visualization of Flow Using Tracer Clones
 ------------------------------------------------------------------------------------------------------------------------
+| An example of flow visualization using the tracer clone tool is shown.
+| Select :menuselection:`Calculation Condition(C) --> Setting(S)` from the menu bar and set it as follows.
+| Since other calculation conditions are the same as when calculating [A=10], it is good to copy the project and change only the following parts.
 
-Setting Simulation Condition
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. figure:: images/02/GELATO/setting_4_1.png
+   :width: 60%
 
-From the main menu bar, when you select [Calculation condition]->[Setting]. 
-[Calculation Condition] window appears, and in this window,
-set parameters as
-:numref:`02_joken20`, 
-:numref:`02_joken21`,
-:numref:`02_joken22`, and  
-:numref:`02_joken23`, respectively.
-In this section, we first perform tracer tracking without considering the effect 
-of sub-grid turbulence.
+   : Setting Calculation Conditions_1
 
+.. figure:: images/02/GELATO/setting_4_2.png
+   :width: 60%
 
-.. _02_joken20:
+   : Setting Calculation Conditions_2
 
-.. figure:: images/02/joken20.png
-   :align: center
-   :width: 600pt
+| After setting, check :guilabel:`Primary Normal Tracers` -> :guilabel:`Scalar`, uncheck :guilabel:`Scalar (Cell Center)` -> :guilabel:`Weighted Particle Number (Primary)`, and play the animation, it looks like the following.
 
-   : Basic Settings
+.. figure:: images/02/GELATO/A_10_clone_visualization_animation.gif
+   :width: 60%
 
-.. _02_joken21:
+   : Flow Visualization Using Tracers
 
-.. figure:: images/02/joken21.png
-   :align: center
-   :width: 600pt
-
-   : Primary Tracers Supplying Condition
-
-.. _02_joken22:
-
-.. figure:: images/02/joken22.png
-   :align: center
-   :width: 600pt
-
-   :Time Settings for Normal Tracers
-
-.. _02_joken23:
-
-.. figure:: images/02/joken23.png
-   :align: center
-   :width: 600pt
-
-   : Diffusion Condition
-
-| In addition, the [Flow information input file] in :numref:`02_joken20`, is the same file with the [Case1.cgn] which was produced by the flow simulation of [Nays2d+] in the previous section  (:numref:`02_joken24`).
-
-.. _02_joken24:
-
-.. figure:: images/02/joken24.png
-   :align: center
-   :width: 100%
-
-   : Assign CGNS file to read flow simulation results
-
-
-Run GELATO
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-From the main menu, select [Simulation]]->[Run], then you are asked as will be asked as :numref:`02_save_project3` . 
-so, click [OK] and save project.
-
-.. _02_save_project3:
-
-.. figure:: images/01/warning.png
-   :align: center
-   :width: 400pt
-
-   : Saving GELATO Project(1)
-
-
-| In the :numref:`02_save_project4`, either [Save as file (\*.ipro)] or [Save as Project] will do. 
-| In this example, save as [GELATO_A=0]. 
-
-.. _02_save_project4:
-
-.. figure:: images/02/save_project4.png
-   :align: center
-   :width: 250pt
-
-   : Saving GELATO Project(2)
-
-
-When the computation starts, :numref:`02_jikko20` appears, and when the computation finishes, 
-:numref:`02_jikko21` appears. Press [OK] to finish computation. 
-
-.. _02_jikko20:
-
-.. figure:: images/02/jikko20.png
-   :align: center
-   :width: 100%
-
-   : Execution of GELATO(1)
-
-.. _02_jikko21:
-
-.. figure:: images/02/jikko21.png
-   :align: center
-   :width: 250pt
-
-   : Execution of GELATO(2)
-
-Showing the Results of GELATO
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-From the main menu, select [Calculation Result]->[Open new 2D Post Processing Window], and
-the calculation results are shown (:numref:`02_kekka20`)
-
-.. _02_kekka20:
-
-.. figure:: images/02/kekka20.png
-   :align: center
-   :width: 100%
-
-   : [2D Post Processing Window]
-
-
-Since the orientation of the :numref:`02_kekka20` is the opposite to the  
-experimental image shown at the beginning of this chapter :numref:`02_jikken`,
-press the 90° rotation mark twice 
-to rotate 180° (:numref:`02_kekka21`).
-
-.. _02_kekka21:
-
-.. figure:: images/02/kekka21.png
-   :align: center
-   :width: 100%
-
-   : 2D Post Processing Window 180° rotate
-
-Since the [Time] display is so small that it's hard to see, select [Time]->[Properties] in the object browser
-(:numref:`02_jikoku1`), 
-display [Time Setting] and set the font size appropriately large (:numref:`02_jikoku2`).
-
-.. _02_jikoku1:
-
-.. figure:: images/02/jikoku1.png
-   :align: center
-   :width: 100%
-
-   : Time Setting(1)
-
-.. _02_jikoku2:
-
-.. figure:: images/02/jikoku2.png
-   :align: center
-   :width: 300pt
-
-   : Time Setting(2)
-
-
-As shown in :numref:`02_anime1`, put time bar back to 0, and from the main menu,
-select [Animation]->[Start/Stop], then the animation starts( :numref:`02_GELATO00`).
-
-.. _02_anime1:
-
-.. figure:: images/02/anime1.png
-   :align: center
-   :width: 100%
-
-   : Starting Animation
-
-.. _02_GELATO00:
-
-.. figure:: images/02/GELATO_00.gif
-   :align: center
-   :width: 70%
-
-   : Tracer Animation (Turbulent Diffusivity A=0)
-
-There is almost no diffusion and the tracers are just flowing straightly.
-
-Comparison of the Turbulent Diffusivity
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Select [Calculation Condition]->[Setting] and open [Calculation Condition] window.
-As shown in :numref:`02_A01`, set in the [Group]->[Diffusion Condition], [Diffusivity Correction]->[Yes] 
-and set the value [A=10] of the [Diffusivity Parameter] 
-
-.. _02_A01:
-
-.. figure:: images/02/A01.png
-   :align: center
-   :width: 600pt
-
-   : Random Walk Parameter Setting (A=1)
-
-.. _02_GELATO01:
-
-.. figure:: images/02/GELATO_01.gif
-   :align: center
-   :width: 70%
-
-   : Animation of the Tracer Motion (A=1)
-
-In the same manner, if we do the simulation with [A=5], [A=10] and [A=50], the results becomes as
-:numref:`02_GELATO05`, :numref:`02_GELATO10` and :numref:`02_GELATO50`.
-
-.. _02_GELATO05:
-
-.. figure:: images/02/GELATO_05.gif
-   :align: center
-   :width: 70%
-
-   : Animation of the Tracer Motion (A=5)
-
-.. _02_GELATO10:
-
-.. figure:: images/02/GELATO_10.gif
-   :align: center
-   :width: 70%
-
-   : Animation of the Tracer Motion (A=10)
-
-.. _02_GELATO50:
-
-.. figure:: images/02/GELATO_50.gif
-   :align: center
-   :width: 70%
-
-   : Animation of the Tracer Motion (A=50)
-
-
-When we compared with the experimental results of the :numref:`02_jikken`, 
-it seem that the case with A=10, :numref:`02_GELATO10`, is the closest to the experiment. 
-
-Cloning of the Tracers
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-In the main menu, select [Calculation Condition]->[Setting] to show [Calculation Condition].
-In the [Calculation Condition] window, select [Tracer Cloning and Amalgamation], set parameters as :numref:`02_clone01`.
-
-Select [Diffusion Condition] and set [A=10] and press[OK] as :numref:`02_clone01-1`.
-Then execute the GELATO solver by choosing [Simulation]->[Run], and show the results (:numref:`02_clone10`).
-
-.. _02_clone01:
-
-.. figure:: images/02/clone01.png
-   :align: center
-   :width: 600pt
-
-   : Setting the Tracer Cloning(1)
-
-.. _02_clone01-1:
-
-.. figure:: images/02/clone01-1.png
-   :align: center
-   :width: 600pt
-
-   : Setting the Tracer Cloning(2)
-
-.. _02_clone10:
-
-.. figure:: images/02/clone10.gif
-   :align: center
-   :width: 100%
-
-   : Animation of Tracer Cloning (Maximum Generation 20, A=10)
-
-The spread range of the tracers in :numref:`02_jikken` is close to the diffusion range of the green dye 
-in the experimental movie.  The number of tracers appears to be enormous, but 
-if you put check marks in [Particles]->[Scalars]->[Generations] in the object browser, 
-generations of the tracers are displayed as :numref:`02_clone02`.
-
-.. _02_clone02:
-
-.. figure:: images/02/clone02.png
-   :align: center
-   :width: 100%
-
-   : Color-coded View of the Clone Generations
-
-When this is animated, it becomes as :numref:`02_clone10_gen`.
-
-.. _02_clone10_gen:
-
-.. figure:: images/02/clone10_gen.gif
-   :align: center
-   :width: 100%
-
-   : Tracers Clone Animation(Maximum 20 Generations, A=10, Color-coded View)
-
-| As described in  :ref:`Overview` , the substantial weight in the 10th generation is W=0.00195, and in the 20th generation is W=0.00000195. 
-| Therefore, :numref:`02_clone02`, the concentrations of the tracers of green, yellow, red, etc. are logarithmically lower than that of the central blue tracers. 
-| To see the real concentration, the substantial concentration in each cell is visualized by the following procedure. 
-
-1. Uncheck the check box at [Scalar] in the object browser (:numref:`02_concent1`).
-
-.. _02_concent1:
-
-.. figure:: images/02/concent1.png
-   :align: center
-   :width: 100%
-
-   : Uncheck the check box by [Scalar] 
-
-2. Put check mark at [Scalar(Cell Center)] and [Weighted numbers of tracers] in the Object Browser
-(:numref:`02_concent2`).
-
-.. _02_concent2:
-
-.. figure:: images/02/concent2.png
-   :align: center
-   :width: 100%
-
-   : Put check mark at [Weighted numbers of tracers]
-
-3. Right click [Weighted numbers of tracers] and press [Property]
-
-.. _02_concent3:
-
-.. figure:: images/02/concent3.png
-   :align: center
-   :width: 100%
-
-   : [Weighted numbers of tracers]->[Property]
-
-4. In the [Scalar Setting] window, setting as shown :numref:`02_concent1`. 
-
-.. _02_concent4:
-
-.. figure:: images/02/concent4.png
-   :align: center
-   :width: 70%
-
-   : Scalar Settings
-
-5. As shown in :numref:`02_concent7`, put time bar back to 0, and from the main menu, select [Animation]->[Start/Stop],
-then the animation starts( :numref:`02_concent8`).
-
-.. _02_concent7:
-
-.. figure:: images/02/concent7.png
-   :align: center
-   :width: 100%
-
-   : Starting Animation
-
-.. _02_concent8:
-
-.. figure:: images/02/concent8.gif
-   :align: center
-   :width: 70%
-
-   : Animation of the tracer concentration considering the weight
-
-The diffusion situation is similar to that of the green dye in the experimental movie of
-:numref:`02_jikken`. 
-
-Flow Visualization using Tracer Cloning
+Fish Swimming Simulation
 ------------------------------------------------------------------------------------------------------------------------
+| Select :menuselection:`Calculation Condition(C) --> Setting(S)` from the menu bar and set it as follows.
 
-Flow visualization using tracer cloning is shown in this section.
-In the main menu, click [Calculation Condition], and set parameters in the [Group] of
-[Normal Tracers Supplying Condition] and [Tracer Cloning and Amalgamation] as 
-:numref:`02_settei1` and :numref:`02_settei2`, respectively, and press [OK].
+.. figure:: images/02/GELATO/setting_5_1.png
+   :width: 60%
 
+   : Setting Calculation Conditions_1
 
-.. _02_settei1:
+.. figure:: images/02/GELATO/setting_5_2.png
+   :width: 60%
 
-.. figure:: images/02/settei1.png
-   :align: center
-   :width: 600pt
+   : Setting Calculation Conditions_2
 
-   : Calculation Condition Setting(1)
+.. figure:: images/02/GELATO/setting_5_3.png
+   :width: 60%
 
-.. _02_settei2:
+   : Setting Calculation Conditions_3
 
-.. figure:: images/02/settei2.png
-   :align: center
-   :width: 600pt
+| When you click :guilabel:`Edit` in the fish movement characteristics list, an edit dialog is displayed.
+| You can add groups by clicking :guilabel:`Add` and enter parameters for each, but it is cumbersome, so this time we will read and input the parameters from a csv file where the parameters are saved. The csv data ( :file:`fish_data.csv` ) can be downloaded from here : `fish_data.csv <https://i-ric.org/download/gelato-v2-0-fish_data/>`_.
+|
+| When you click :guilabel:`Import`, a file selection dialog is displayed, so select :file:`fish_data.csv`.
 
-   : Calculation Condition Setting(2)
+.. figure:: images/02/GELATO/setting_5_4.png
+   :width: 60%
 
-Then after running  the GELATO solver.
-in the [Object Browser], remove check mark from [Weighted numbers of tracers], put 
-check marks in boxes at [Particles], [Scalar] and remove the check mark form the [Generation].
+   : Setting Calculation Conditions_4
 
-From the main menu, select [Animation]->[Start/Stop], and the animation with evenly distributed tracers in the
-whole channel is visualized.
+.. note::
+   This csv file can be created by exporting what was entered on iRIC, or it can be created using a macro for Microsoft Excel that can easily create fish setting files (\*.csv).
+   This macro can be downloaded `here <https://i-ric.org/download/gelato_fishfilemaker/>`_.
 
-.. _02_kashika:
+| When the reading is complete, the fish movement characteristics are displayed as follows.
 
-.. figure:: images/02/kashika.gif
-   :align: center
+.. figure:: images/02/GELATO/setting_5_5.png
+   :width: 60%
+
+   : Setting Calculation Conditions_5 (List Display)
+
+.. figure:: images/02/GELATO/setting_5_6.png
    :width: 100%
 
-   : Flow Visualization with Virtual tracers
+   : Setting Calculation Conditions_5 (Table Format)
 
+When you save the calculation conditions and execute the calculation, the following result is obtained.
 
-Swimming Fish Simulation
-------------------------------------------------------------------------------------------------------------------------
+.. figure:: images/02/GELATO/fish_animation.gif
+   :width: 60%
 
-Set the following parameters in the [Computation of Fish Motion] in the 
-[Calculation Condition] window menu followed by selecting 
-[Calculation Condition]->[Setting] in the main menu.
-
-.. _02_fish1:
-
-.. figure:: images/02/fish1.png
-   :align: center
-   :width: 600pt
-
-   : Setting Condition or Fish(1)
-
-.. _02_fish2:
-
-.. figure:: images/02/fish2.png
-   :align: center
-   :width: 600pt
-
-   : Setting Condition for Fish(2)
-
-.. _02_fish3:
-
-.. figure:: images/02/fish3.png
-   :align: center
-   :width: 600pt
-
-   : Setting Condition of Fish(3)
-
-.. _02_fish4:
-
-.. figure:: images/02/fish4.png
-   :align: center
-   :width: 600pt
-
-   : Setting Condition of Fish(4)
-
-.. _02_fish5:
-
-.. figure:: images/02/fish5.png
-   :align: center
-   :width: 600pt
-
-   : Setting Condition of Fish(5)
-
-After setting these parameters, run the solver by [Simulation]->[Run].
-Once close the existing [2D Post-processing 2D window], open a new 
-[2D Post-processing 2D window], put check mark on [Polygon]->[Fish]->[Type] 
-as :numref:`02_fish6`, 
-and select [Animation]->[Start/Stop].  Then :numref:`02_fish7` is played.
-
-.. _02_fish6:
-
-.. figure:: images/02/fish6.png
-   :align: center
-   :width: 100%
-
-   : Choosing Fish Animation
-
-.. _02_fish7: 
-
-.. figure:: images/02/fish.gif
-   :align: center
-   :width: 70%
-
-   : Swimming Fish Animation
+   : Fish Swimming Simulation
   
 Driftwood Tracking by NaysDW2 and Visualization
 ========================================================================================================================
@@ -1138,7 +929,7 @@ From the iRIC startup screen, click [Create New Project], and select [NaysDw2(Si
 
 .. _02_select_Dw2:
 
-.. figure:: images/02/select_Dw2.png
+.. figure:: images/02/NaysDw2/select_Dw2.png
    :align: center
    :width: 600pt
 
@@ -1151,7 +942,7 @@ As shown in :numref:`02_select_project1`, click [...] and select CGNS files that
 
 .. _02_select_project1:
 
-.. figure:: images/02/select_project_01.png
+.. figure:: images/02/NaysDw2/select_project_01.png
    :align: center
    :width: 400pt
 
@@ -1160,7 +951,7 @@ As shown in :numref:`02_select_project1`, click [...] and select CGNS files that
 
 .. _02_select_project2:
 
-.. figure:: images/02/select_project_02.png
+.. figure:: images/02/NaysDw2/select_project_02.png
    :align: center
    :width: 600pt
 
@@ -1170,7 +961,7 @@ When you select a CGNS file, the specifications of the selected project will be 
 
 .. _02_select_project3:
 
-.. figure:: images/02/select_project_03.png
+.. figure:: images/02/NaysDw2/select_project_03.png
    :align: center
    :width: 400pt
 
@@ -1180,7 +971,7 @@ So, you will be asked whether to import the grid, so click [Yes] ( :numref:`02_s
 
 .. _02_select_project4:
 
-.. figure:: images/02/select_project_04.png
+.. figure:: images/02/NaysDw2/select_project_04.png
    :align: center
    :width: 300pt
 
@@ -1191,7 +982,7 @@ So, you will be asked whether to import the grid, so click [Yes] ( :numref:`02_s
 
 .. _02_import8:
 
-.. figure:: images/02/import6.png
+.. figure:: images/02/NaysDw2/import6.png
    :align: center
    :width: 400pt
 
@@ -1199,7 +990,7 @@ So, you will be asked whether to import the grid, so click [Yes] ( :numref:`02_s
 
 .. _02_import9:
 
-.. figure:: images/02/import9.png
+.. figure:: images/02/NaysDw2/import9.png
    :align: center
    :width: 100%
 
@@ -1217,7 +1008,7 @@ Set other parameters as :numref:`02_dw1` ~ :numref:`02_dw4`
 
 .. _02_dw1:
 
-.. figure:: images/02/dw1.png
+.. figure:: images/02/NaysDw2/dw1.png
    :align: center
    :width: 600pt
 
@@ -1225,7 +1016,7 @@ Set other parameters as :numref:`02_dw1` ~ :numref:`02_dw4`
 
 .. _02_dw2:
 
-.. figure:: images/02/dw2.png
+.. figure:: images/02/NaysDw2/dw2.png
    :align: center
    :width: 600pt
 
@@ -1233,7 +1024,7 @@ Set other parameters as :numref:`02_dw1` ~ :numref:`02_dw4`
 
 .. _02_dw3:
 
-.. figure:: images/02/dw3.png
+.. figure:: images/02/NaysDw2/dw3.png
    :align: center
    :width: 600pt
 
@@ -1241,7 +1032,7 @@ Set other parameters as :numref:`02_dw1` ~ :numref:`02_dw4`
 
 .. _02_dw4:
 
-.. figure:: images/02/dw4.png
+.. figure:: images/02/NaysDw2/dw4.png
    :align: center
    :width: 600pt
 
@@ -1255,7 +1046,7 @@ From the main menu, select [Simulation]->[Run] as :numref:`02_dw6`.
 
 .. _02_dw6:
 
-.. figure:: images/02/dw6.png
+.. figure:: images/02/NaysDw2/dw6.png
    :align: center
    :width: 100%
 
@@ -1277,7 +1068,7 @@ press [Select Folder].
 
 .. _02_dw8:
 
-.. figure:: images/02/save_project4.png
+.. figure:: images/02/NaysDw2/save_project4.png
    :align: center
    :width: 250pt
 
@@ -1291,7 +1082,7 @@ Then click [OK] to finish calculation.
 
 .. _02_dw10:
 
-.. figure:: images/02/dw10.png
+.. figure:: images/02/NaysDw2/dw10.png
    :align: center
    :width: 100%
 
@@ -1299,7 +1090,7 @@ Then click [OK] to finish calculation.
 
 .. _02_dw11:
 
-.. figure:: images/02/jikko21.png
+.. figure:: images/02/NaysDw2/jikko21.png
    :align: center
    :width: 250pt
 
@@ -1313,7 +1104,7 @@ From the main menu, select [Calculation Result]->[Open New 2D Post-processing Wi
 
 .. _02_dw12:
 
-.. figure:: images/02/dw12.png
+.. figure:: images/02/NaysDw2/dw12.png
    :align: center
    :width: 100%
 
@@ -1324,7 +1115,7 @@ In the [Object Browser] of :numref:`02_dw13`, put check marks in the boxes at [i
 
 .. _02_dw13:
 
-.. figure:: images/02/dw13.png
+.. figure:: images/02/NaysDw2/dw13.png
    :align: center
    :width: 100%
 
@@ -1335,7 +1126,7 @@ Set the parameters for [Scalar Settings] as :numref:`02_dw14`, and press [OK].
 
 .. _02_dw14:
 
-.. figure:: images/02/dw14.png
+.. figure:: images/02/NaysDw2/dw14.png
    :align: center
    :width: 600pt
 
@@ -1346,7 +1137,7 @@ as :numref:`02_dw15`, and start animation as :numref:`02_dw16`
 
 .. _02_dw15:
 
-.. figure:: images/02/dw15.png
+.. figure:: images/02/NaysDw2/dw15.png
    :align: center
    :width: 100%
 
@@ -1354,7 +1145,7 @@ as :numref:`02_dw15`, and start animation as :numref:`02_dw16`
 
 .. _02_dw16:
 
-.. figure:: images/02/dw.gif
+.. figure:: images/02/NaysDw2/dw.gif
    :align: center
    :width: 80%
 

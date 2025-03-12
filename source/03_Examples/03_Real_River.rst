@@ -22,7 +22,7 @@ From the start window of the iRIC, launch [Nays2d+] as :numref:`03_001`.
 
 .. _03_001:
 
-.. figure:: images/03/001.png
+.. figure:: images/03/Nays2D+/001.png
    :align: center
    :width: 600pt
 
@@ -43,7 +43,7 @@ From the main menu, select [Import]->[Geographic Data]->[Bed Elevation(m)] as
 
 .. _03_002:
 
-.. figure:: images/03/002.png
+.. figure:: images/03/Nays2D+/002.png
    :align: center
    :width: 100%
 
@@ -51,7 +51,7 @@ From the main menu, select [Import]->[Geographic Data]->[Bed Elevation(m)] as
 
 .. _03_003:
 
-.. figure:: images/03/003.png
+.. figure:: images/03/Nays2D+/003.png
    :align: center
    :width: 600pt
 
@@ -63,7 +63,7 @@ While reading the data, you need to set filtering value as
 
 .. _03_004:
 
-.. figure:: images/03/004.png
+.. figure:: images/03/Nays2D+/004.png
    :align: center
    :width: 400pt
 
@@ -76,7 +76,7 @@ The geometric data (ground elevation data) is shown as
 
 .. _03_005:
 
-.. figure:: images/03/005.png
+.. figure:: images/03/Nays2D+/005.png
    :align: center
    :width: 100%
 
@@ -91,7 +91,7 @@ From the main menu, select [File]->[Property], and press [Edit] button at
 
 .. _03_006:
 
-.. figure:: images/03/006.png
+.. figure:: images/03/Nays2D+/006.png
    :align: center
    :width: 400pt
 
@@ -103,7 +103,7 @@ in the [Select Coordinate System] window, type "Japan" at [Search:] box, and sel
 
 .. _03_007:
 
-.. figure:: images/03/007.png
+.. figure:: images/03/Nays2D+/007.png
    :align: center
    :width: 400pt
 
@@ -115,7 +115,7 @@ In the [Object Browser], put check marks at [Background Images (Internet)]
 
 .. _03_008:
 
-.. figure:: images/03/008.png
+.. figure:: images/03/Nays2D+/008.png
    :align: center
    :width: 100%
 
@@ -131,7 +131,7 @@ select [Create grid from polygonal line and width] in the next window
 
 .. _03_009:
 
-.. figure:: images/03/009.png
+.. figure:: images/03/Nays2D+/009.png
    :align: center
    :width: 600pt
 
@@ -142,7 +142,7 @@ Assign channel center points from the upstream side to down stream side as :numr
 
 .. _03_010:
 
-.. figure:: images/03/010.png
+.. figure:: images/03/Nays2D+/010.png
    :align: center
    :width: 100%
 
@@ -153,7 +153,7 @@ In the [Grid Creation] window, :numref:`03_011`, input values as Ni=290, Nj=56 a
 
 .. _03_011:
 
-.. figure:: images/03/011.png
+.. figure:: images/03/Nays2D+/011.png
    :align: center
    :width: 400pt
 
@@ -161,7 +161,7 @@ In the [Grid Creation] window, :numref:`03_011`, input values as Ni=290, Nj=56 a
 
 .. _03_012:
 
-.. figure:: images/03/012.png
+.. figure:: images/03/Nays2D+/012.png
    :align: center
    :width: 100%
 
@@ -180,7 +180,7 @@ polygon has to be located at lower layer than the [Obstacle] polygons (:numref:`
 
 .. _03_013:
 
-.. figure:: images/03/013.png
+.. figure:: images/03/Nays2D+/013.png
    :align: center
    :width: 100%
 
@@ -188,7 +188,7 @@ polygon has to be located at lower layer than the [Obstacle] polygons (:numref:`
 
 .. _03_014:
 
-.. figure:: images/03/014.png
+.. figure:: images/03/Nays2D+/014.png
    :align: center
    :width: 100%
 
@@ -205,7 +205,7 @@ make a polygon covering all the grid domain, and input n=0.030
 
 .. _03_015:
 
-.. figure:: images/03/015.png
+.. figure:: images/03/Nays2D+/015.png
    :align: center
    :width: 400pt
 
@@ -221,7 +221,7 @@ From the main menu, select [Grid]->[Attributes Mapping]->[Execute]
 
 .. _03_016:
 
-.. figure:: images/03/016.png
+.. figure:: images/03/Nays2D+/016.png
    :align: center
    :width: 100%
 
@@ -232,7 +232,7 @@ the [Attribute Mapping] window as :numref:`03_017`, and press [OK] to execute ma
 
 .. _03_017:
 
-.. figure:: images/03/017.png
+.. figure:: images/03/Nays2D+/017.png
    :align: center
    :width: 250pt
 
@@ -249,7 +249,7 @@ and :numref:`03_023`.  When you finished to input parameters, press [OK].
 
 .. _03_018:
 
-.. figure:: images/03/018.png
+.. figure:: images/03/Nays2D+/018.png
    :align: center
    :width: 100%
 
@@ -257,7 +257,7 @@ and :numref:`03_023`.  When you finished to input parameters, press [OK].
 
 .. _03_019:
    
-.. figure:: images/03/019.png
+.. figure:: images/03/Nays2D+/019.png
    :align: center
    :width: 100%
 
@@ -265,7 +265,7 @@ and :numref:`03_023`.  When you finished to input parameters, press [OK].
 
 .. _03_020:  
 
-.. figure:: images/03/020.png
+.. figure:: images/03/Nays2D+/020.png
    :align: center
    :width: 100%
 
@@ -273,7 +273,7 @@ and :numref:`03_023`.  When you finished to input parameters, press [OK].
 
 .. _03_021:
    
-.. figure:: images/03/021.png
+.. figure:: images/03/Nays2D+/021.png
    :align: center
    :width: 100%
 
@@ -281,7 +281,7 @@ and :numref:`03_023`.  When you finished to input parameters, press [OK].
 
 .. _03_022:
    
-.. figure:: images/03/022.png
+.. figure:: images/03/Nays2D+/022.png
    :align: center
    :width: 100%
 
@@ -289,7 +289,7 @@ and :numref:`03_023`.  When you finished to input parameters, press [OK].
 
 .. _03_023:
    
-.. figure:: images/03/023.png
+.. figure:: images/03/Nays2D+/023.png
    :align: center
    :width: 100%
 
@@ -303,229 +303,154 @@ Execute a Solver
 Save the project with some name, and run the solver by [Simulation]->[Run].
 When the simulation finished, save the results and close the project.
 
+Tracer Tracking Simulation by GELATO
+========================================================================================================================
+
+Launching GELATO and Importing Grid
+------------------------------------------------------------------------------------------------------------------------
+
+From the iRIC startup screen, select [New Project], choose "GELATO ver2.x" from the solver selection screen, and click "OK".
+
+.. figure:: images/01/GELATO/kido.png
+   :width: 800pt
+
+   : Selecting and Launching GELATO
 
 
-Tracking Virtual Tracers by GELATO
-=====================================
+The GELATO session starts, and a dialog for selecting the input CGNS file appears.
 
-Select a Solver
----------------------
-
-In the [Select Solver] window, which appears when you select [Create New Project]
-in the startup window of the iRIC,  select [GELATO] and press [OK] as
-:numref:`03_024`.
-
-.. _03_024:
-
-   
-.. figure:: images/01/GELATO_kido.png
-   :align: center
-   :width: 600pt
-
-   :Select GELATO Solve     
-
-
-
-Import Grid Data
----------------------
-
-Right click [Grid(No Data)] in the [Object Browser] and select [Import] as
-:numref:`03_025`.
-
-.. _03_025:
-   
-.. figure:: images/01/GELATO_import.png
-   :align: center
+.. figure:: images/01/GELATO/openning.png
    :width: 100%
 
-   :Select GELATO     
+   : Launching GELATO
+  
+Click the `...` button to open the file selection dialog, and select the CGNS file of the Nays2d+Flow calculation result.
 
+.. figure:: images/03/GELATO/import_grid_1.png
+   :width: 60%
 
-Choose [Case1.cgn] which contains the calculation results of [Nays2d+] saved
-in the previous section (:numref:`03_026`)
+   : Selecting the Calculation Result CGNS File
 
-.. _03_026:
+The information of the selected CGNS file is displayed in the dialog, click `OK`.
 
-.. figure:: images/03/026.png
-   :align: center
-   :width: 600pt
+.. figure:: images/03/GELATO/import_grid_2.png
+   :width: 30%
 
-   : Select a File to Import
+   : Selecting the Calculation Result CGNS File
 
+A dialog asking whether to import the grid appears, click `Yes`.
 
+.. figure:: images/01/GELATO/import_grid_3.png
+   :width: 30%
 
+   : Importing Grid
 
-Confirmation of Geographic Data
---------------------------------------
+An error like the one below appears, but this always happens when trying to read the grid of a different solver, so just click `Yes`.
 
+.. figure:: images/02/GELATO/import_grid_3.png
+   :width: 40%
 
-Set coordinate system by selecting [File]->[Property] from the main menu as
-:numref:`03_027`.
+   : Importing Grid
 
-.. _03_027:
+When the import is complete, the imported grid is displayed as shown below.
 
-.. figure:: images/03/027.png
-   :align: center
+.. figure:: images/03/GELATO/import_grid_3.png
    :width: 100%
 
-   :Select Property
+   : Grid Import Complete
 
 
+Checking Terrain Data
+------------------------------------------------------------------------------------------------------------------------
+| Set the coordinate system and display the background map.
+| From the menu bar, select :menuselection:`File(F) --> Property(P)` to open the project property screen.
 
-In the [Project Property] window, press [Edit] located at the [Coordinate System:] lin
-(:numref:`03_028`)
+.. figure:: images/03/GELATO/coordinate_setting_01.png
+   :width: 100%
 
-.. _03_028:
+   : Selecting Property
 
-.. figure:: images/03/028.png
-   :align: center
+From the project property screen, select `Edit` for the coordinate system.
+
+.. figure:: images/03/GELATO/coordinate_setting_02.png
    :width: 400pt
 
-   :Project Property
+   : Project Property
 
+In the coordinate system selection screen, type [japan] in the search box, select [EPSG:6674:JGD2011 / Japan Plane Rectangular CS VI], and click `OK`, then close the project property screen.
 
-
-Type "Japan" in the box next to [Search:], select a line with [ EPSG:...Japan....CS VI],
-and press [OK] as :numref:`03_029`.
-
-.. _03_029:
-   
-.. figure:: images/03/029.png
-   :align: center
+.. figure:: images/03/GELATO/coordinate_setting_03.png
    :width: 400pt
 
-   :Select Coordinate System
+   : Selecting Coordinate System
 
-Select [Background Images(Internet)]->[国土地理院(標準地図)] from the Object Browser
-as :numref:`03_030`.
+From the object browser, select the background image (Internet) of the Geospatial Information Authority of Japan (standard map).
 
 .. _03_030:
 
-.. figure:: images/03/030.png
-   :align: center
+.. figure:: images/03/GELATO/coordinate_setting_04.png
    :width: 100%
 
-   :Background Image
+   : Background Image
 
+Tracer Tracking Simulation by GELATO
+------------------------------------------------------------------------------------------------------------------------
 
+Setting Calculation Conditions
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+| From the menu bar, select :menuselection:`Calculation Conditions(C) --> Settings(S)` to open the calculation condition setting window, and set the parts surrounded by red frames as follows.
+| Other calculation conditions can be left as default.
 
-
-Tracer Tracking by GELATO
------------------------------------
-
-Calculation Condition
-^^^^^^^^^^^^^^^^^^^^^^^^^
-
-From the main menu, select [Calculation Condition]->[Setting],
-and set the [Calculation Condition] as 
-:numref:`03_031`, :numref:`03_032`, :numref:`03_033` and :numref:`03_034`.
-In which the CGNS file to read in the :numref:`03_032` is usually the 
-same file imported for calculation grid in :numref:`03_026`.
-
-.. _03_031:
-
-.. figure:: images/03/031.png
-   :align: center
+.. figure:: images/03/GELATO/setting_01.png
    :width: 600pt
 
-   :[Basic Settings]
-
-.. _03_032:
-  
-.. figure:: images/03/032.png
-   :align: center
+   : Setting Calculation Conditions_1
+   
+.. figure:: images/03/GELATO/setting_02.png
    :width: 600pt
 
-   :Set the CGNS file to read the flow field information
+   : Setting Calculation Conditions_2
 
-.. _03_033:
-  
-.. figure:: images/03/033.png
-   :align: center
+.. figure:: images/03/GELATO/setting_03.png
    :width: 600pt
 
-   :Set special tracer information for path tracking
+   : Setting Calculation Conditions_3
 
-.. _03_034:
+Executing the Calculation
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+| From the menu bar, select :menuselection:`Calculation(C) --> Run(R)`, a warning appears, save with an appropriate name.
+| The save format can be either [Save to file (ipro)] or [Save as project].
+| When the calculation is complete, a dialog saying "Solver calculation is complete." appears, click `OK`.
 
-.. figure:: images/03/034.png
-   :align: center
-   :width: 600pt
+Displaying Calculation Results
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+| From the main menu, select :menuselection:`Calculation Results(R) --> Open New Visualization Window (2D)` to display the 2D visualization window.
+| From the object browser, right-click [Trajectory] under [Polygon], and select [Properties].
 
-   :Diffusion Condition
-
-
-
-Execute Calculation
-^^^^^^^^^^^^^^^^^^^^^^^^^
-
-From the main menu, save thr project by selecting [File]->[Save Project as], and 
-execute GELATO by selecting [Simulation]->[Run].
-
-
-Visualization of the Calculation Results
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-From the main menu, select [Calculation Result]->[Open new 2D Post-Processing Window].
-Put check marks in [Background Images(Internet)] and [国土地理院(標準地図)] in the Object Browser, 
-as :numref:`03_035`.
-
-.. _03_035:
-
-.. figure:: images/03/035.png
-   :align: center
+.. figure:: images/03/GELATO/visualization_02.png
    :width: 100%
 
-   :Show Background Image
+   : Polygon Properties
 
+| In the polygon setting screen, set [Line Width] to 3.
 
-Right click the [Trajectory] at the [Polygon] in the Object Browser, and select [Property] as 
-:numref:`03_036`.
-
-.. _03_036:
-
-.. figure:: images/03/036.png
-   :align: center
-   :width: 100%
-
-   :Property of the Polygon
-
-In the [Polygon Setting] window, set [Line Width] as [3] as :numref:`03_037`.
-
-.. _03_037:
-
-.. figure:: images/03/037.png
-   :align: center
+.. figure:: images/03/GELATO/visualization_03.png
    :width: 600pt
 
-   :Polygon Setting
+   : Polygon Settings
 
-From the Object Browser, put check marks at [Scalar(node)] and [Velocity] 
-and right click [Velocity] and press [Property].
-In the [Scalar Setting] window, as shown :numref:`03_038`, uncheck [Automatic], set [Max:] and [Min:] vales, 
-and uncheck [Fill lower area].
+| Similarly, from the object browser, select [Velocity (m/s) (Magnitude)] under [Scalar (Grid Point)], right-click and select [Properties].
+| In the scalar setting screen, enter values as shown below, and uncheck [Draw below minimum value].
 
-.. _03_038:
-
-.. figure:: images/03/038.png
-   :align: center
+.. figure:: images/03/GELATO/visualization_04.png
    :width: 600pt
 
-   :Scalar Setting
+   : Scalar Settings
 
-After above settings the calculation results of the tracers injected from the Bridge can be visualized as follows.
+| After completing the visualization settings, return the time step to the beginning, and select :menuselection:`Animation(A) --> Start/Stop(S)` from the main menu to play the animation.
+| This result shows the calculation result of the trajectory of the tracer dropped from the float drop machine.
 
-
-.. figure:: images/03/039.png
-   :align: center
-   :width: 100%
-
-   :Tracer Tracking Paths
-
-
-
-.. figure:: images/03/tracers.gif
-   :align: center
+.. figure:: images/03/GELATO/tranjectory_animation.gif
    :width: 70%
 
-   : Tracer Tracking Animation
+   : Trajectory Animation

@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Welcome to the GELATO v2.x Manuals and Examples Page!
-==================================================
+======================================================================================
 .. figure:: images/ishikari_kako.gif
    :align: center
    :width: 400pt
