@@ -785,7 +785,7 @@ GELATOによるトレーサー追跡計算
 
    : 計算条件の設定_2
 
-| 設定終了後 :guilabel:`Primary Normal Tracers` -> :guilabel:`スカラー` にチェックを入れ、 :guilabel:`スカラー(セル中心)` -> :guilabel:`重み付き粒子数(プライマリー)` のチェックを外し、アニメーションを再生すると以下のようになる。
+| 条件を設定して計算を実行後、 :guilabel:`Primary Normal Tracers` -> :guilabel:`スカラー` にチェックを入れ、 :guilabel:`スカラー(セル中心)` -> :guilabel:`重み付き粒子数(プライマリー)` のチェックを外し、アニメーションを再生すると以下のようになる。
 
 .. figure:: images/02/GELATO/A_10_clone_visualization_animation.gif
    :width: 60%
