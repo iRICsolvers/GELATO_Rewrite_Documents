@@ -199,10 +199,6 @@ Maximum Number of Tracer Particles in one Cell
 | Specify the maximum number of tracers that can exist in one cell.
 | If the number of tracers in a cell has already reached this value, any tracers that move into the cell will be removed.
 
-.. note::
-   | In the current specification, the number of tracers that cannot move due to traps is also counted in the number of tracers in the cell, so if this value is low, it may reach the maximum number at the trap location and all tracers that move there will be removed.
-   | In that case, increase this value to avoid the issue.
-
 .. _Critical Depth for Tracer Moving(m) and Critical Shear Velocity Below Which The Tracer Stops(m/s):
 
 Critical Depth for Tracer Moving(m) and Critical Shear Velocity Below Which The Tracer Stops(m/s)
@@ -359,16 +355,15 @@ Max Numbers of Windmap Lines
 ------------------------------------------------------------------------------------------------------------------------
 | Specify the maximum number of lines to draw for Wind Map-like plotting.
 
-Lifespan of Each Windmap Lines(sec)
+Maximum Life of Windmap Lines
 ------------------------------------------------------------------------------------------------------------------------
 | Specify the maximum lifespan of each line for Wind Map-like plotting.
 | The drawn Wind Map lines will have a random lifespan up to this maximum value.
-| It is desirable to specify a value that can divide the lifespan evenly by the saving time interval, as the remainder will be truncated.
 
-Time Step for Windmap Memory(sec)
+Interval of Windmap Saving
 ------------------------------------------------------------------------------------------------------------------------
 | Specify how often to save the current location of the Wind Map line polyline as a node.
-| It is desirable to specify a value that can divide the saving time interval evenly by the tracking time interval, as the remainder will be truncated.
+| It is desirable to specify a value that can evenly divide the number of tracking calculations between GELATO outputs.
 
 Simulation of Fish Motion
 ========================================================================================================================

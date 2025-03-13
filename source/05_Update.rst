@@ -233,3 +233,10 @@ Drawing Tree and Gravel Polygons
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - A bug where tree and gravel polygons were drawn even if their positions were deeper than the specified depth has been fixed.
 - A bug where tree and gravel polygons were drawn outside the grid range has been fixed.
+
+Updates in GELATO Ver2.1
+------------------------------------------------------------------------------------------------------------------------
+The following points have been updated in GELATO Ver2.1 compared to Ver2.0.
+
+* Changed the specification so that trapped tracers are not counted in the number of tracers in the cell, but are counted separately as the number of trapped tracers.
+* Changed the specification so that the lifespan and saving interval of the Windmap wind drawing lines are specified by the number of times, similar to the trajectory tracking tracers, instead of seconds.
