@@ -18,10 +18,10 @@ Handling of Time Steps
 
    : Handling of time steps in previous versions of GELATO
 
-| As shown in the figure, GELATO could output results at finer time steps than the time steps of the loaded calculation result by using the Output Frequency Increase Factor, but the following problems existed:
+| As shown in the figure, GELATO could output results at finer time steps than the time steps of the loaded calculation result by using the :guilabel:`Output Frequency Increase Factor` , but the following problems existed:
 
 - The initial time step of the loaded calculation result was not output.
-- Changing the Output Frequency Increase Factor caused the time steps of the loaded calculation result and GELATO's time steps to not match.
+- Changing the :guilabel:`Output Frequency Increase Factor` caused the time steps of the loaded calculation result and GELATO's time steps to not match.
 
 | Due to the above specifications, the output intervals of tracers in GELATO were misaligned, and changing the Output Frequency Increase Factor resulted in different tracer tracking results.
 
@@ -64,7 +64,7 @@ Loading Flow Calculation Result
    For example, for water depth, it could only be read if the solver output the name as :guilabel:`Depth(m)`, :guilabel:`Depth[m]`, :guilabel:`Depth`, or :guilabel:`depth(m)`.
 
 | Therefore, in GELATO ver2.x, the specification has been changed to allow the user to select the target by checking what names of calculation result are in the CGNS file of the loaded calculation result.
-| As a result, although it no longer automatically reads as before, it is possible to read any CGNS file that outputs flow velocity, water depth, or bed elevation, regardless of which solver was used to calculate it.
+| As a result, although it no longer automatically reads as before, it is possible to read any CGNS file that outputs flow velocity, depth, and bed elevation, regardless of which solver was used to calculate it.
 
 .. figure:: images/05/select_result_new.png
    :width: 600pt
@@ -168,11 +168,11 @@ Additional Information for Fish
 | Previously, the information output to the fish polygons was only the Type, which only identified groups of fish with the same body length, and if the jump feature was enabled, the type was replaced with information on whether the fish were jumping or not.
 | In ver2.x, the following information is added to the fish polygons:
 
-- Index of the group the fish belongs to
+- Fish Group
 - Fish index
-- Jump status (whether the fish jumped between time steps)
-- Cruising status (whether the fish is cruising or dashing)
-- Below activity limit mode (whether the fish is in the period of handling below activity limit at the time of output)
+- Jump Mode (whether the fish jumped between time steps)
+- Swim Mode (whether the fish is cruising or dashing)
+- Under Critical Depth Mode (whether the fish is in the period of handling below activity limit at the time of output)
 
 .. figure:: images/05/fish_info.png
    :width: 300pt

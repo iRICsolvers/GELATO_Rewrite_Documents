@@ -312,7 +312,7 @@ Launching GELATO and Importing Grid
 From the iRIC startup screen, select [New Project], choose "GELATO ver2.x" from the solver selection screen, and click "OK".
 
 .. figure:: images/01/GELATO/kido.png
-   :width: 800pt
+   :width: 60%
 
    : Selecting and Launching GELATO
 
@@ -324,28 +324,28 @@ The GELATO session starts, and a dialog for selecting the input CGNS file appear
 
    : Launching GELATO
   
-Click the `...` button to open the file selection dialog, and select the CGNS file of the Nays2d+Flow calculation result.
+Click the `...` button to open the file selection dialog, and select the CGNS file of the "Nays2d+Flow" calculation result.
 
 .. figure:: images/03/GELATO/import_grid_1.png
    :width: 60%
 
    : Selecting the Calculation Result CGNS File
 
-The information of the selected CGNS file is displayed in the dialog, click `OK`.
+The information of the selected CGNS file is displayed in the dialog, click :guilabel:`OK`.
 
 .. figure:: images/03/GELATO/import_grid_2.png
    :width: 30%
 
    : Selecting the Calculation Result CGNS File
 
-A dialog asking whether to import the grid appears, click `Yes`.
+A dialog asking whether to import the grid appears, click :guilabel:`Yes`.
 
 .. figure:: images/01/GELATO/import_grid_3.png
    :width: 30%
 
    : Importing Grid
 
-An error like the one below appears, but this always happens when trying to read the grid of a different solver, so just click `Yes`.
+An error like the one below appears, but this always happens when trying to read the grid of a different solver, so just click :guilabel:`Yes`.
 
 .. figure:: images/02/GELATO/import_grid_3.png
    :width: 40%
@@ -370,21 +370,21 @@ Checking Terrain Data
 
    : Selecting Property
 
-From the project property screen, select `Edit` for the coordinate system.
+From the project property screen, select :guilabel:`Edit` for the coordinate system.
 
 .. figure:: images/03/GELATO/coordinate_setting_02.png
-   :width: 400pt
+   :width: 30%
 
    : Project Property
 
-In the coordinate system selection screen, type [japan] in the search box, select [EPSG:6674:JGD2011 / Japan Plane Rectangular CS VI], and click `OK`, then close the project property screen.
+In the coordinate system selection screen, type [japan] in the search box, select [EPSG:6674:JGD2011 / Japan Plane Rectangular CS VI], and click :guilabel:`OK`, then close the project property screen.
 
 .. figure:: images/03/GELATO/coordinate_setting_03.png
    :width: 400pt
 
    : Selecting Coordinate System
 
-From the object browser, select the background image (Internet) of the Geospatial Information Authority of Japan (standard map).
+From the object browser, select the "background image (Internet)" of the "国土地理院(標準地図)".
 
 .. _03_030:
 
@@ -399,7 +399,7 @@ Tracer Tracking Simulation by GELATO
 Setting Calculation Condition
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 | From the menu bar, select :menuselection:`Calculation Condition --> Settings` to open the calculation condition setting window, and set the parts surrounded by red frames as follows.
-| Other Calculation Condition can be left as default.
+| Other calculation condition can be left as default.
 
 .. figure:: images/03/GELATO/setting_01.png
    :width: 600pt
@@ -425,7 +425,7 @@ Executing the Calculation
 Displaying Calculation Result
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 | From the main menu, select :menuselection:`Calculation Result --> Open new 2D Post-Processing Window` to display the 2D visualization window.
-| From the object browser, right-click [Trajectory] under [Polygon], and select [Properties].
+| From the object browser, right-click [Trajectory] under [Polygon], and select [Property].
 
 .. figure:: images/03/GELATO/visualization_02.png
    :width: 100%
@@ -439,7 +439,7 @@ Displaying Calculation Result
 
    : Polygon Settings
 
-| Similarly, from the object browser, select [Velocity (m/s) (Magnitude)] under [Scalar (Grid Point)], right-click and select [Properties].
+| Similarly, from the object browser, select [Velocity (m/s) (Magnitude)] under [Scalar], right-click and select [Property].
 | In the scalar setting screen, enter values as shown below, and uncheck [Draw below minimum value].
 
 .. figure:: images/03/GELATO/visualization_04.png

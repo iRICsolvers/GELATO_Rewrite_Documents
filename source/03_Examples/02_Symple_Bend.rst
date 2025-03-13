@@ -613,7 +613,7 @@ Launching GELATO and Importing Grid
 From the iRIC startup screen, select [Create New Project], and in the solver selection screen that appears, select "GELATO ver2.x" and click "OK".
 
 .. figure:: images/01/GELATO/kido.png
-   :width: 800pt
+   :width: 60%
 
    : Selecting and Launching GELATO
 
@@ -727,7 +727,7 @@ Displaying Calculation Result
 
    : Image Rotation
 
-| The time display is very small and hard to see, so right-click [Time] in the object browser, display [Time Settings] from [Properties], and appropriately increase the font size.
+| The time display is very small and hard to see, so right-click [Time] in the object browser, display [Time Settings] from [Property], and appropriately increase the font size.
 
 .. figure:: images/02/GELATO/time_size_setting.png
    :width: 100%
@@ -828,7 +828,7 @@ Tracer Cloning
 
       : Scalar Setting_2
 
-1. In the [Scalar Settings] window, set it as follows and click :guilabel:`OK`.
+3. In the [Scalar Settings] window, set it as follows and click :guilabel:`OK`.
 
    .. figure:: images/02/GELATO/scalar_setting_3_3.png
       :width: 60%
@@ -858,7 +858,7 @@ Visualization of Flow Using Tracer Clones
 
    : Setting Calculation Conditions_2
 
-| After setting, check :guilabel:`Primary Normal Tracers` -> :guilabel:`Scalar`, uncheck :guilabel:`Scalar (Cell Center)` -> :guilabel:`Weighted Particle Number (Primary)`, and play the animation, it looks like the following.
+| After setting, run simulation, and check :guilabel:`Primary Normal Tracers` -> :guilabel:`Scalar`, uncheck :guilabel:`Scalar (Cell Center)` -> :guilabel:`Weighted Particle Number (Primary)`, and play the animation, it looks like the following.
 
 .. figure:: images/02/GELATO/A_10_clone_visualization_animation.gif
    :width: 60%

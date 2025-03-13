@@ -213,7 +213,7 @@ Velocity Vectors
 ^^^^^^^^^^^^^^^^^^^^
 
 In the [Object Browser], put check marks in the boxes by [Arrow] and [Velocity], click Focus on [Arrow] 
-and click the right mouse button [Properties]. Vector setting" window as :numref:`01_kekka_2` appears. 
+and click the right mouse button [Property]. Vector setting" window as :numref:`01_kekka_2` appears. 
 Set the values in the red line and click [OK].  
 :numref:`01_kekka_6` is the depth-averaged velocity vector. Here, the velocity 
 distribution is uniform under the constant flow condition.
@@ -251,7 +251,7 @@ Uncheck "Vectors" in the Object Browser, and put check marks in "Particles" and 
 
    : Particles(1)
  
-Right click [Particle] and select [Properties] as 
+Right click [Particle] and select [Property] as 
 :numref:`01_kekka_10` .
 
 .. _01_kekka_10:

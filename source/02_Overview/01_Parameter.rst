@@ -65,7 +65,6 @@ Use Original Time
 
 .. warning::
    When this parameter is enabled, all time-related parameters must be specified in the time of the loaded calculation result.
-      - ::ref:`Computation Finishing Time`
 
 Drawing Center Line
 ------------------------------------------------------------------------------------------------------------------------
