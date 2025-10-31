@@ -426,11 +426,11 @@ Minimum Depth for Fish Activity(m)
     | Specify the water depth at which the fish can swim without any problems.
     | The behavior of the fish in water depths below this depth is specified in :guilabel:`Fish Motion in Critical Depth Area`.
 Fish Motion in Critical Depth Area
-    | Specify the behavior of the fish in areas with water depths below the activity limit from the following options.
-    | If the fish moves to an area with water depths below the activity limit after moving in a normal state, it will return to the previous location and then take the action specified in the options.
-    | If the water level changes to below the activity limit before moving, the fish will take the action specified in the options from that location.
-    | While continuing the behavior in areas with water depths below the limit, the fish will not move again even if the water depth is below the limit after moving.
-
+    | Specify the behavior of the fish in areas with water depths below the activity limit from the following options.  
+    | If the behavior other than *Removed* is selected and a fish in the normal state moves to an area with water depths below the activity limit, it will return to its previous location and take the specified action during the next movement.  
+    | If the water depth becomes lower than the activity limit due to a change in water level before movement, the fish will stay in place and resume movement once the water depth rises above the activity limit again.  
+    | If the fish moves to another area below the activity limit while continuing the behavior for that condition, it will return to the previous position, reset the duration timer for that behavior, and take the specified action again during the next movement.  
+    
     Stop
         The fish will stop at that location.
     Reverse
